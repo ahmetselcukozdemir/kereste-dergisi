@@ -50,7 +50,12 @@ namespace Kereste.BLL.Services.Concrete
 			throw new NotImplementedException();
 		}
 
-		public User GetUserByUser(string username, string password)
+        public User GetUserById(int id)
+        {
+           return _context.Users.FirstOrDefault(x => x.ID == id);
+        }
+
+        public User GetUserByUser(string username, string password)
 		{
 			var user = _context.Users.FirstOrDefault(x => x.Username == username && x.Password == password);
 			if (user != null)

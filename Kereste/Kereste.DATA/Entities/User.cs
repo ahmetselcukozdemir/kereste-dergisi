@@ -14,8 +14,12 @@ namespace Kereste.DATA.Entities
 		public string? Username { get; set; }
 		[StringLength(20)]
 		public string? Password { get; set; }
-		[StringLength(30)]
-		public string? Email { get; set; }
+		[StringLength(50)]
+        public string? NameSurname { get; set; }
+        [StringLength(50)]
+        public DateTime? Birthday { get; set; }
+        [StringLength(20)]
+        public string? Email { get; set; }
         public string? Image { get; set; }
         public bool IsActive { get; set; }
         public bool isAdmin { get; set; }

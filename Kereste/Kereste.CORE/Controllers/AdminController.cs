@@ -34,9 +34,10 @@ namespace Kereste.CORE.Controllers
 				{
 					var claims = new List<Claim>
 			{
-				new Claim(ClaimTypes.Name, user.Username),
-				new Claim(ClaimTypes.NameIdentifier, user.ID.ToString())
-               
+				new Claim(ClaimTypes.Name, user.NameSurname),
+				new Claim(ClaimTypes.NameIdentifier, user.ID.ToString()),
+				new Claim(ClaimTypes.Role, user.isAdmin == true ? "1" : "0"),
+                new Claim(ClaimTypes.Uri, user.Image != null ? user.Image : "")
             };
 
 					var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -63,6 +64,25 @@ namespace Kereste.CORE.Controllers
 		public IActionResult Index()
         {
             return View();
+        }
+
+		[Authorize]
+		public IActionResult Profile()
+        {
+            ClaimsPrincipal user = HttpContext.User;
+
+            string userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+			User userModel = _userService.GetUserById(Convert.ToInt32(userId));
+
+            return View(userModel);
+		}
+
+		public IActionResult Logout()
+		{
+            HttpContext.SignOutAsync();
+
+            return RedirectToAction("Login", "Admin");
         }
     }
 }

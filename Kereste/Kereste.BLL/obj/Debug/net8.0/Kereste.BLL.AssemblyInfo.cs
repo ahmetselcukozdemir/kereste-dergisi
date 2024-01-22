@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kereste.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c94ae4e6d242c400917af64d1aaa8afd76f4e3ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2d79383817236534a5689e02a488845efa6146e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kereste.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kereste.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

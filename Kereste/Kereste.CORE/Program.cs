@@ -41,6 +41,16 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+    name: "cikis-yap",
+    pattern: "/admin/cikis-yap/",
+    defaults: new { controller = "Admin", action = "Logout" });
+
+app.MapControllerRoute(
+    name: "profile",
+    pattern: "/admin/profile/",
+    defaults: new { controller = "Admin", action = "Profile" });
+
+app.MapControllerRoute(
 	name: "login-homepage",
 	pattern: "/admin/homepage/",
 	defaults: new { controller = "Admin", action = "Index" });
