@@ -42,11 +42,11 @@
 
                         <div class="form-group">
                             <label>Fotoğraf</label>
-                            <input type="file" name="img[]" class="file-upload-default">
+                            <input type="file" name="img[]" class="file-upload-default" id="fileInput" accept="image/*">
                             <div class="input-group col-xs-6">
-                                <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Seç">
+                                <input type="text" class="form-control file-upload-info" disabled placeholder="Resim Seç" id="fileInfo">
                                 <span class="input-group-append">
-                                    <button class="file-upload-browse btn btn-gradient-primary" type="button">Yükle</button>
+                                    <button class="file-upload-browse btn btn-gradient-primary" type="button" onclick="uploadFile()">Yükle</button>
                                 </span>
                             </div>
                         </div>
@@ -79,15 +79,18 @@
         }
     }
 
-    document.querySelector('input[type="file"]').addEventListener('change', function (event) {
-        var input = event.target;
-        var fileName = input.files[0].name;
+    function uploadFile() {
+        var fileInput = document.getElementById('fileInput');
+        var fileInfo = document.getElementById('fileInfo');
 
-        // Seçilen dosya adını gösteren input alanını güncelle
-        input.parentElement.querySelector('.file-upload-info').value = fileName;
+        var file = fileInput.files[0];
 
-        // Mevcut fotoğrafı gösteren img etiketini güncelle
-        var currentImage = document.getElementById('currentImage');
-        currentImage.src = URL.createObjectURL(input.files[0]);
-    });
+        if (file) {
+            // Burada dosyanızı sunucuya göndermek için gerekli işlemleri yapabilirsiniz.
+            // Bu örnek sadece dosya adını fileInfo alanına yazar.
+            fileInfo.value = file.name;
+        } else {
+            alert("Lütfen bir dosya seçin.");
+        }
+    }
 </script>

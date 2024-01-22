@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kereste.CORE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2d79383817236534a5689e02a488845efa6146e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+445941351bea5ab1f94d6447998122da7ba33066")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kereste.CORE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kereste.CORE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
