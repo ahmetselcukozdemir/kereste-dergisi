@@ -1,0 +1,3401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Kereste.CORE.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kereste.CORE.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\css\\login.css",
+      "PackagePath": "staticwebassets\\admin\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\admin\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\gsap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\misc.js",
+      "PackagePath": "staticwebassets\\admin\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\admin\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\common\\_darkStyle.css",
+      "PackagePath": "staticwebassets\\css\\common\\_darkStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\common\\_loaders.css",
+      "PackagePath": "staticwebassets\\css\\common\\_loaders.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_banners.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_banners.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_breaking_news.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_breaking_news.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_buttons.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_columnist.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_columnist.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_download.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_download.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_google_stories.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_google_stories.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_header.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_header.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_navbar.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page-single-post-creative.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page-single-post-creative.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page-single-post-features.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page-single-post-features.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page_author_details.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page_author_details.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page_blog.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page_blog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page_product.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page_product.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_page_shop.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_page_shop.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_featured.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_featured.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_grid.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_latest.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_latest.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_list.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_list.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_overlay.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_overlay.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_picked.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_picked.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_post_soon.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_post_soon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_section_title.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_section_title.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_sidebar_popup.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_sidebar_popup.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_sliders.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_sliders.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_subscribe.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_subscribe.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_tabs_posts.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_tabs_posts.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_trends_news.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_trends_news.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\_widget.css",
+      "PackagePath": "staticwebassets\\css\\elements\\_widget.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\elements\\videos.css",
+      "PackagePath": "staticwebassets\\css\\elements\\videos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\animate.css",
+      "PackagePath": "staticwebassets\\css\\lib\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\lib\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\icofont.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\ionicons.css",
+      "PackagePath": "staticwebassets\\css\\lib\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\css\\lib\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\line-awesome.css",
+      "PackagePath": "staticwebassets\\css\\lib\\line-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\lity.css",
+      "PackagePath": "staticwebassets\\css\\lib\\lity.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\lib\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\lib\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\rtl_style.css",
+      "PackagePath": "staticwebassets\\css\\rtl_style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\line_awesome_1.3.0\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\line_awesome_1.3.0\\la-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\neco\\Neco-Variable.ttf",
+      "PackagePath": "staticwebassets\\fonts\\neco\\Neco-Variable.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\fonts\\neco\\Neco-VariableItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\neco\\Neco-VariableItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\header_back.png",
+      "PackagePath": "staticwebassets\\img\\about_page\\header_back.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\pattern_1.png",
+      "PackagePath": "staticwebassets\\img\\about_page\\pattern_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\about_page\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\about_page\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\android1.png",
+      "PackagePath": "staticwebassets\\img\\android1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\1.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\2.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\3.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\4.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\5.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\6.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\7.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\8.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\another_news\\9.png",
+      "PackagePath": "staticwebassets\\img\\another_news\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\apple1.png",
+      "PackagePath": "staticwebassets\\img\\apple1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\ar.svg",
+      "PackagePath": "staticwebassets\\img\\ar.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\audio1.mp3",
+      "PackagePath": "staticwebassets\\img\\audio1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\back2.png",
+      "PackagePath": "staticwebassets\\img\\back2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner1.png",
+      "PackagePath": "staticwebassets\\img\\banner1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner10.png",
+      "PackagePath": "staticwebassets\\img\\banner10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner11.png",
+      "PackagePath": "staticwebassets\\img\\banner11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner12.png",
+      "PackagePath": "staticwebassets\\img\\banner12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner13.png",
+      "PackagePath": "staticwebassets\\img\\banner13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner14.png",
+      "PackagePath": "staticwebassets\\img\\banner14.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner15.png",
+      "PackagePath": "staticwebassets\\img\\banner15.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner16.png",
+      "PackagePath": "staticwebassets\\img\\banner16.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner17.png",
+      "PackagePath": "staticwebassets\\img\\banner17.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner18.png",
+      "PackagePath": "staticwebassets\\img\\banner18.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner19.png",
+      "PackagePath": "staticwebassets\\img\\banner19.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner2.png",
+      "PackagePath": "staticwebassets\\img\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner20.png",
+      "PackagePath": "staticwebassets\\img\\banner20.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner21.png",
+      "PackagePath": "staticwebassets\\img\\banner21.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner22.png",
+      "PackagePath": "staticwebassets\\img\\banner22.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner23.png",
+      "PackagePath": "staticwebassets\\img\\banner23.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner24.png",
+      "PackagePath": "staticwebassets\\img\\banner24.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner25.png",
+      "PackagePath": "staticwebassets\\img\\banner25.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner3.png",
+      "PackagePath": "staticwebassets\\img\\banner3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner4.png",
+      "PackagePath": "staticwebassets\\img\\banner4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner5.png",
+      "PackagePath": "staticwebassets\\img\\banner5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner6.png",
+      "PackagePath": "staticwebassets\\img\\banner6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner7.png",
+      "PackagePath": "staticwebassets\\img\\banner7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner8.png",
+      "PackagePath": "staticwebassets\\img\\banner8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\banner9.png",
+      "PackagePath": "staticwebassets\\img\\banner9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\bg_pattern1.png",
+      "PackagePath": "staticwebassets\\img\\bg_pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\bg_shap.png",
+      "PackagePath": "staticwebassets\\img\\bg_shap.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\1.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\2.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\3.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\4.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\5.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\6.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\7.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\breaking\\8.png",
+      "PackagePath": "staticwebassets\\img\\breaking\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\bussines\\1.png",
+      "PackagePath": "staticwebassets\\img\\bussines\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\bussines\\2.png",
+      "PackagePath": "staticwebassets\\img\\bussines\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\bussines\\3.png",
+      "PackagePath": "staticwebassets\\img\\bussines\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\bmw.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\bmw.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\fiat.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\fiat.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\ford.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\ford.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\gmc.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\gmc.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\jeep.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\jeep.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\mercedes.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\mercedes.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\nissan.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\nissan.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\car_brands\\volkswagen.svg",
+      "PackagePath": "staticwebassets\\img\\car_brands\\volkswagen.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\colums.png",
+      "PackagePath": "staticwebassets\\img\\colums.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\colums\\1.png",
+      "PackagePath": "staticwebassets\\img\\colums\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\colums\\2.png",
+      "PackagePath": "staticwebassets\\img\\colums\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\colums\\3.png",
+      "PackagePath": "staticwebassets\\img\\colums\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\colums\\4.png",
+      "PackagePath": "staticwebassets\\img\\colums\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\download1.png",
+      "PackagePath": "staticwebassets\\img\\download1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\download1_dark.png",
+      "PackagePath": "staticwebassets\\img\\download1_dark.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\1.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\2.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\3.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\4.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\5.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\6.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\edit_choice\\7.png",
+      "PackagePath": "staticwebassets\\img\\edit_choice\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\en.svg",
+      "PackagePath": "staticwebassets\\img\\en.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\fav.png",
+      "PackagePath": "staticwebassets\\img\\fav.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\fav1.png",
+      "PackagePath": "staticwebassets\\img\\fav1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\fav2.png",
+      "PackagePath": "staticwebassets\\img\\fav2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\fav3.png",
+      "PackagePath": "staticwebassets\\img\\fav3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\fr.svg",
+      "PackagePath": "staticwebassets\\img\\fr.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\1.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\10.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\11.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\12.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\13.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\14.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\15.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\16.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\17.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\17.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\18.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\184.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\184.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\19.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\2.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\20.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\21.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\21.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\22.jpeg",
+      "PackagePath": "staticwebassets\\img\\google-stories\\22.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\3.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\4.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\5.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\6.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\7.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\8.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\google-stories\\9.png",
+      "PackagePath": "staticwebassets\\img\\google-stories\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\1.png",
+      "PackagePath": "staticwebassets\\img\\header\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\2.png",
+      "PackagePath": "staticwebassets\\img\\header\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\3.png",
+      "PackagePath": "staticwebassets\\img\\header\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\home3_1.png",
+      "PackagePath": "staticwebassets\\img\\header\\home3_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\home3_2.jpeg",
+      "PackagePath": "staticwebassets\\img\\header\\home3_2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\home3_3.jpeg",
+      "PackagePath": "staticwebassets\\img\\header\\home3_3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\home3_4.jpeg",
+      "PackagePath": "staticwebassets\\img\\header\\home3_4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\header\\home3_5.jpeg",
+      "PackagePath": "staticwebassets\\img\\header\\home3_5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\1.png",
+      "PackagePath": "staticwebassets\\img\\icons\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\2.png",
+      "PackagePath": "staticwebassets\\img\\icons\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\3.png",
+      "PackagePath": "staticwebassets\\img\\icons\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\4.png",
+      "PackagePath": "staticwebassets\\img\\icons\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\5.png",
+      "PackagePath": "staticwebassets\\img\\icons\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\6.png",
+      "PackagePath": "staticwebassets\\img\\icons\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\mob_game.png",
+      "PackagePath": "staticwebassets\\img\\icons\\mob_game.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\nft_game.png",
+      "PackagePath": "staticwebassets\\img\\icons\\nft_game.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\nintendo.png",
+      "PackagePath": "staticwebassets\\img\\icons\\nintendo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\pc_game.png",
+      "PackagePath": "staticwebassets\\img\\icons\\pc_game.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\playstation.png",
+      "PackagePath": "staticwebassets\\img\\icons\\playstation.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\top-arrow.png",
+      "PackagePath": "staticwebassets\\img\\icons\\top-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\icons\\xbox.png",
+      "PackagePath": "staticwebassets\\img\\icons\\xbox.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\imoj_heart.png",
+      "PackagePath": "staticwebassets\\img\\imoj_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\1.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\10.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\11.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\12.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\2.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\3.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\4.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\5.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\6.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\7.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\8.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\instagram\\9.png",
+      "PackagePath": "staticwebassets\\img\\instagram\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\1.png",
+      "PackagePath": "staticwebassets\\img\\latest\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\10.png",
+      "PackagePath": "staticwebassets\\img\\latest\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\100.png",
+      "PackagePath": "staticwebassets\\img\\latest\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\101.png",
+      "PackagePath": "staticwebassets\\img\\latest\\101.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\102.png",
+      "PackagePath": "staticwebassets\\img\\latest\\102.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\103.png",
+      "PackagePath": "staticwebassets\\img\\latest\\103.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\104.png",
+      "PackagePath": "staticwebassets\\img\\latest\\104.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\105.png",
+      "PackagePath": "staticwebassets\\img\\latest\\105.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\106.png",
+      "PackagePath": "staticwebassets\\img\\latest\\106.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\107.png",
+      "PackagePath": "staticwebassets\\img\\latest\\107.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\108.png",
+      "PackagePath": "staticwebassets\\img\\latest\\108.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\109.png",
+      "PackagePath": "staticwebassets\\img\\latest\\109.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\11.png",
+      "PackagePath": "staticwebassets\\img\\latest\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\110.png",
+      "PackagePath": "staticwebassets\\img\\latest\\110.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\111.png",
+      "PackagePath": "staticwebassets\\img\\latest\\111.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\112.png",
+      "PackagePath": "staticwebassets\\img\\latest\\112.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\113.png",
+      "PackagePath": "staticwebassets\\img\\latest\\113.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\114.png",
+      "PackagePath": "staticwebassets\\img\\latest\\114.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\115.png",
+      "PackagePath": "staticwebassets\\img\\latest\\115.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\116.png",
+      "PackagePath": "staticwebassets\\img\\latest\\116.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\117.png",
+      "PackagePath": "staticwebassets\\img\\latest\\117.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\118.png",
+      "PackagePath": "staticwebassets\\img\\latest\\118.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\119.png",
+      "PackagePath": "staticwebassets\\img\\latest\\119.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\12.png",
+      "PackagePath": "staticwebassets\\img\\latest\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\120.png",
+      "PackagePath": "staticwebassets\\img\\latest\\120.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\121.png",
+      "PackagePath": "staticwebassets\\img\\latest\\121.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\122.png",
+      "PackagePath": "staticwebassets\\img\\latest\\122.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\123.png",
+      "PackagePath": "staticwebassets\\img\\latest\\123.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\124.png",
+      "PackagePath": "staticwebassets\\img\\latest\\124.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\125.png",
+      "PackagePath": "staticwebassets\\img\\latest\\125.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\126.png",
+      "PackagePath": "staticwebassets\\img\\latest\\126.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\127.png",
+      "PackagePath": "staticwebassets\\img\\latest\\127.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\128.png",
+      "PackagePath": "staticwebassets\\img\\latest\\128.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\129.png",
+      "PackagePath": "staticwebassets\\img\\latest\\129.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\13.png",
+      "PackagePath": "staticwebassets\\img\\latest\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\130.png",
+      "PackagePath": "staticwebassets\\img\\latest\\130.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\131.png",
+      "PackagePath": "staticwebassets\\img\\latest\\131.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\132.png",
+      "PackagePath": "staticwebassets\\img\\latest\\132.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\133.png",
+      "PackagePath": "staticwebassets\\img\\latest\\133.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\134.png",
+      "PackagePath": "staticwebassets\\img\\latest\\134.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\135.png",
+      "PackagePath": "staticwebassets\\img\\latest\\135.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\136.png",
+      "PackagePath": "staticwebassets\\img\\latest\\136.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\137.png",
+      "PackagePath": "staticwebassets\\img\\latest\\137.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\138.png",
+      "PackagePath": "staticwebassets\\img\\latest\\138.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\139.png",
+      "PackagePath": "staticwebassets\\img\\latest\\139.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\14.png",
+      "PackagePath": "staticwebassets\\img\\latest\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\140.png",
+      "PackagePath": "staticwebassets\\img\\latest\\140.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\141.png",
+      "PackagePath": "staticwebassets\\img\\latest\\141.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\142.png",
+      "PackagePath": "staticwebassets\\img\\latest\\142.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\143.png",
+      "PackagePath": "staticwebassets\\img\\latest\\143.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\144.png",
+      "PackagePath": "staticwebassets\\img\\latest\\144.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\145.png",
+      "PackagePath": "staticwebassets\\img\\latest\\145.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\146.png",
+      "PackagePath": "staticwebassets\\img\\latest\\146.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\147.png",
+      "PackagePath": "staticwebassets\\img\\latest\\147.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\148.png",
+      "PackagePath": "staticwebassets\\img\\latest\\148.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\149.png",
+      "PackagePath": "staticwebassets\\img\\latest\\149.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\15.png",
+      "PackagePath": "staticwebassets\\img\\latest\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\150.png",
+      "PackagePath": "staticwebassets\\img\\latest\\150.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\151.png",
+      "PackagePath": "staticwebassets\\img\\latest\\151.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\152.png",
+      "PackagePath": "staticwebassets\\img\\latest\\152.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\153.png",
+      "PackagePath": "staticwebassets\\img\\latest\\153.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\154.png",
+      "PackagePath": "staticwebassets\\img\\latest\\154.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\155.png",
+      "PackagePath": "staticwebassets\\img\\latest\\155.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\156.png",
+      "PackagePath": "staticwebassets\\img\\latest\\156.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\157.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\158.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\158.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\159.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\159.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\16.png",
+      "PackagePath": "staticwebassets\\img\\latest\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\160.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\160.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\161.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\161.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\162.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\162.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\163.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\163.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\164.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\164.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\165.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\165.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\166.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\166.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\167.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\167.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\168.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\168.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\169.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\169.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\17.png",
+      "PackagePath": "staticwebassets\\img\\latest\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\170.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\170.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\170.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\170.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\171.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\171.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\172.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\172.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\173.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\173.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\174.png",
+      "PackagePath": "staticwebassets\\img\\latest\\174.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\175.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\175.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\176.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\176.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\177.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\177.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\178.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\178.webp",
+      "PackagePath": "staticwebassets\\img\\latest\\178.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\179.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\179.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\18.png",
+      "PackagePath": "staticwebassets\\img\\latest\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\180.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\180.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\181.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\181.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\182.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\182.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\183.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\183.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\184.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\184.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\185.jpg",
+      "PackagePath": "staticwebassets\\img\\latest\\185.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\186.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\186.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\187.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\187.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\188.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\188.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\189.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\189.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\19.png",
+      "PackagePath": "staticwebassets\\img\\latest\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\190.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\190.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\191.jpeg",
+      "PackagePath": "staticwebassets\\img\\latest\\191.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\2.png",
+      "PackagePath": "staticwebassets\\img\\latest\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\20.png",
+      "PackagePath": "staticwebassets\\img\\latest\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\21.png",
+      "PackagePath": "staticwebassets\\img\\latest\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\22.png",
+      "PackagePath": "staticwebassets\\img\\latest\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\23.png",
+      "PackagePath": "staticwebassets\\img\\latest\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\24.png",
+      "PackagePath": "staticwebassets\\img\\latest\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\25.png",
+      "PackagePath": "staticwebassets\\img\\latest\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\26.png",
+      "PackagePath": "staticwebassets\\img\\latest\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\27.png",
+      "PackagePath": "staticwebassets\\img\\latest\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\28.png",
+      "PackagePath": "staticwebassets\\img\\latest\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\29.png",
+      "PackagePath": "staticwebassets\\img\\latest\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\3.png",
+      "PackagePath": "staticwebassets\\img\\latest\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\30.png",
+      "PackagePath": "staticwebassets\\img\\latest\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\31.png",
+      "PackagePath": "staticwebassets\\img\\latest\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\32.png",
+      "PackagePath": "staticwebassets\\img\\latest\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\33.png",
+      "PackagePath": "staticwebassets\\img\\latest\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\34.png",
+      "PackagePath": "staticwebassets\\img\\latest\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\35.png",
+      "PackagePath": "staticwebassets\\img\\latest\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\36.png",
+      "PackagePath": "staticwebassets\\img\\latest\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\37.png",
+      "PackagePath": "staticwebassets\\img\\latest\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\38.png",
+      "PackagePath": "staticwebassets\\img\\latest\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\39.png",
+      "PackagePath": "staticwebassets\\img\\latest\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\4.png",
+      "PackagePath": "staticwebassets\\img\\latest\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\40.png",
+      "PackagePath": "staticwebassets\\img\\latest\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\41.png",
+      "PackagePath": "staticwebassets\\img\\latest\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\42.png",
+      "PackagePath": "staticwebassets\\img\\latest\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\43.png",
+      "PackagePath": "staticwebassets\\img\\latest\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\44.png",
+      "PackagePath": "staticwebassets\\img\\latest\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\45.png",
+      "PackagePath": "staticwebassets\\img\\latest\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\46.png",
+      "PackagePath": "staticwebassets\\img\\latest\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\47.png",
+      "PackagePath": "staticwebassets\\img\\latest\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\48.png",
+      "PackagePath": "staticwebassets\\img\\latest\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\49.png",
+      "PackagePath": "staticwebassets\\img\\latest\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\5.png",
+      "PackagePath": "staticwebassets\\img\\latest\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\50.png",
+      "PackagePath": "staticwebassets\\img\\latest\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\51.png",
+      "PackagePath": "staticwebassets\\img\\latest\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\52.png",
+      "PackagePath": "staticwebassets\\img\\latest\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\53.png",
+      "PackagePath": "staticwebassets\\img\\latest\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\54.png",
+      "PackagePath": "staticwebassets\\img\\latest\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\55.png",
+      "PackagePath": "staticwebassets\\img\\latest\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\56.png",
+      "PackagePath": "staticwebassets\\img\\latest\\56.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\57.png",
+      "PackagePath": "staticwebassets\\img\\latest\\57.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\58.png",
+      "PackagePath": "staticwebassets\\img\\latest\\58.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\59.png",
+      "PackagePath": "staticwebassets\\img\\latest\\59.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\6.png",
+      "PackagePath": "staticwebassets\\img\\latest\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\60.png",
+      "PackagePath": "staticwebassets\\img\\latest\\60.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\61.png",
+      "PackagePath": "staticwebassets\\img\\latest\\61.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\62.png",
+      "PackagePath": "staticwebassets\\img\\latest\\62.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\63.png",
+      "PackagePath": "staticwebassets\\img\\latest\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\64.png",
+      "PackagePath": "staticwebassets\\img\\latest\\64.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\65.png",
+      "PackagePath": "staticwebassets\\img\\latest\\65.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\66.png",
+      "PackagePath": "staticwebassets\\img\\latest\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\67.png",
+      "PackagePath": "staticwebassets\\img\\latest\\67.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\68.png",
+      "PackagePath": "staticwebassets\\img\\latest\\68.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\69.png",
+      "PackagePath": "staticwebassets\\img\\latest\\69.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\7.png",
+      "PackagePath": "staticwebassets\\img\\latest\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\70.png",
+      "PackagePath": "staticwebassets\\img\\latest\\70.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\71.png",
+      "PackagePath": "staticwebassets\\img\\latest\\71.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\72.png",
+      "PackagePath": "staticwebassets\\img\\latest\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\73.png",
+      "PackagePath": "staticwebassets\\img\\latest\\73.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\74.png",
+      "PackagePath": "staticwebassets\\img\\latest\\74.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\75.png",
+      "PackagePath": "staticwebassets\\img\\latest\\75.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\76.png",
+      "PackagePath": "staticwebassets\\img\\latest\\76.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\77.png",
+      "PackagePath": "staticwebassets\\img\\latest\\77.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\78.png",
+      "PackagePath": "staticwebassets\\img\\latest\\78.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\79.png",
+      "PackagePath": "staticwebassets\\img\\latest\\79.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\8.png",
+      "PackagePath": "staticwebassets\\img\\latest\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\80.png",
+      "PackagePath": "staticwebassets\\img\\latest\\80.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\81.png",
+      "PackagePath": "staticwebassets\\img\\latest\\81.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\82.png",
+      "PackagePath": "staticwebassets\\img\\latest\\82.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\83.png",
+      "PackagePath": "staticwebassets\\img\\latest\\83.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\84.png",
+      "PackagePath": "staticwebassets\\img\\latest\\84.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\85.png",
+      "PackagePath": "staticwebassets\\img\\latest\\85.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\86.png",
+      "PackagePath": "staticwebassets\\img\\latest\\86.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\87.png",
+      "PackagePath": "staticwebassets\\img\\latest\\87.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\88.png",
+      "PackagePath": "staticwebassets\\img\\latest\\88.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\89.png",
+      "PackagePath": "staticwebassets\\img\\latest\\89.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\9.png",
+      "PackagePath": "staticwebassets\\img\\latest\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\90.png",
+      "PackagePath": "staticwebassets\\img\\latest\\90.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\91.png",
+      "PackagePath": "staticwebassets\\img\\latest\\91.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\92.png",
+      "PackagePath": "staticwebassets\\img\\latest\\92.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\93.png",
+      "PackagePath": "staticwebassets\\img\\latest\\93.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\94.png",
+      "PackagePath": "staticwebassets\\img\\latest\\94.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\95.png",
+      "PackagePath": "staticwebassets\\img\\latest\\95.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\96.png",
+      "PackagePath": "staticwebassets\\img\\latest\\96.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\97.png",
+      "PackagePath": "staticwebassets\\img\\latest\\97.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\98.png",
+      "PackagePath": "staticwebassets\\img\\latest\\98.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\latest\\99.png",
+      "PackagePath": "staticwebassets\\img\\latest\\99.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\1.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\2.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\3.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\4.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\5.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\6.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\7.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\8.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\lifestyle\\9.png",
+      "PackagePath": "staticwebassets\\img\\lifestyle\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo4_animated.svg",
+      "PackagePath": "staticwebassets\\img\\logo4_animated.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home1.png",
+      "PackagePath": "staticwebassets\\img\\logo_home1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home10_dr.png",
+      "PackagePath": "staticwebassets\\img\\logo_home10_dr.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home10_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home10_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home1_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home1_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home2.png",
+      "PackagePath": "staticwebassets\\img\\logo_home2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home2_icon.png",
+      "PackagePath": "staticwebassets\\img\\logo_home2_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home2_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home2_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home3.png",
+      "PackagePath": "staticwebassets\\img\\logo_home3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home4.png",
+      "PackagePath": "staticwebassets\\img\\logo_home4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home4_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home4_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home5.png",
+      "PackagePath": "staticwebassets\\img\\logo_home5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home5_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home5_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home6.png",
+      "PackagePath": "staticwebassets\\img\\logo_home6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home6_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home6_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home7.png",
+      "PackagePath": "staticwebassets\\img\\logo_home7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home7_lt.png",
+      "PackagePath": "staticwebassets\\img\\logo_home7_lt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home8.png",
+      "PackagePath": "staticwebassets\\img\\logo_home8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home8_dr.png",
+      "PackagePath": "staticwebassets\\img\\logo_home8_dr.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home9.png",
+      "PackagePath": "staticwebassets\\img\\logo_home9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\logo_home9_dr.png",
+      "PackagePath": "staticwebassets\\img\\logo_home9_dr.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\main_post.jpeg",
+      "PackagePath": "staticwebassets\\img\\main_post.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\must_read\\1.png",
+      "PackagePath": "staticwebassets\\img\\must_read\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\must_read\\2.png",
+      "PackagePath": "staticwebassets\\img\\must_read\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\must_read\\3.png",
+      "PackagePath": "staticwebassets\\img\\must_read\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\must_read\\4.png",
+      "PackagePath": "staticwebassets\\img\\must_read\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\page_author\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\page_author\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\pdc1.png",
+      "PackagePath": "staticwebassets\\img\\pdc1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\pdc2.png",
+      "PackagePath": "staticwebassets\\img\\pdc2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\pdc3.png",
+      "PackagePath": "staticwebassets\\img\\pdc3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\quote.png",
+      "PackagePath": "staticwebassets\\img\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\o2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\shop\\o3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\o3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\soon\\1.png",
+      "PackagePath": "staticwebassets\\img\\soon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\soon\\2.png",
+      "PackagePath": "staticwebassets\\img\\soon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\soon\\3.png",
+      "PackagePath": "staticwebassets\\img\\soon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\soon\\4.png",
+      "PackagePath": "staticwebassets\\img\\soon\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\soon\\5.png",
+      "PackagePath": "staticwebassets\\img\\soon\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\1.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\2.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\3.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\4.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\5.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\6.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\sponsored\\7.png",
+      "PackagePath": "staticwebassets\\img\\sponsored\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\1.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\10.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\11.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\12.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\13.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\14.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\15.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\16.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\17.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\18.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\19.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\2.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\20.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\21.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\22.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\23.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\24.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\25.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\3.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\4.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\5.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\6.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\7.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\8.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\tabs\\9.png",
+      "PackagePath": "staticwebassets\\img\\tabs\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\team_page\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\team_page\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\1.png",
+      "PackagePath": "staticwebassets\\img\\teams\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\2.png",
+      "PackagePath": "staticwebassets\\img\\teams\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\3.png",
+      "PackagePath": "staticwebassets\\img\\teams\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\4.png",
+      "PackagePath": "staticwebassets\\img\\teams\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\5.png",
+      "PackagePath": "staticwebassets\\img\\teams\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\bal.png",
+      "PackagePath": "staticwebassets\\img\\teams\\bal.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\bos.png",
+      "PackagePath": "staticwebassets\\img\\teams\\bos.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\cws.png",
+      "PackagePath": "staticwebassets\\img\\teams\\cws.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\nyw.png",
+      "PackagePath": "staticwebassets\\img\\teams\\nyw.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\obr.png",
+      "PackagePath": "staticwebassets\\img\\teams\\obr.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\opl.png",
+      "PackagePath": "staticwebassets\\img\\teams\\opl.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\teams\\tord.png",
+      "PackagePath": "staticwebassets\\img\\teams\\tord.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\technology\\1.png",
+      "PackagePath": "staticwebassets\\img\\technology\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\technology\\2.png",
+      "PackagePath": "staticwebassets\\img\\technology\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\technology\\3.png",
+      "PackagePath": "staticwebassets\\img\\technology\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\1.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\2.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\3.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\4.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\5.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\top_fav\\6.png",
+      "PackagePath": "staticwebassets\\img\\top_fav\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\1.png",
+      "PackagePath": "staticwebassets\\img\\topics\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\2.png",
+      "PackagePath": "staticwebassets\\img\\topics\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\3.png",
+      "PackagePath": "staticwebassets\\img\\topics\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\4.png",
+      "PackagePath": "staticwebassets\\img\\topics\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\5.png",
+      "PackagePath": "staticwebassets\\img\\topics\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\topics\\6.png",
+      "PackagePath": "staticwebassets\\img\\topics\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\1.png",
+      "PackagePath": "staticwebassets\\img\\trend\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\10.png",
+      "PackagePath": "staticwebassets\\img\\trend\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\11.png",
+      "PackagePath": "staticwebassets\\img\\trend\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\12.png",
+      "PackagePath": "staticwebassets\\img\\trend\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\13.png",
+      "PackagePath": "staticwebassets\\img\\trend\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\14.png",
+      "PackagePath": "staticwebassets\\img\\trend\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\15.png",
+      "PackagePath": "staticwebassets\\img\\trend\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\16.png",
+      "PackagePath": "staticwebassets\\img\\trend\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\17.png",
+      "PackagePath": "staticwebassets\\img\\trend\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\2.png",
+      "PackagePath": "staticwebassets\\img\\trend\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\3.png",
+      "PackagePath": "staticwebassets\\img\\trend\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\4.png",
+      "PackagePath": "staticwebassets\\img\\trend\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\5.png",
+      "PackagePath": "staticwebassets\\img\\trend\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\6.png",
+      "PackagePath": "staticwebassets\\img\\trend\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\7.png",
+      "PackagePath": "staticwebassets\\img\\trend\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\8.png",
+      "PackagePath": "staticwebassets\\img\\trend\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\trend\\9.png",
+      "PackagePath": "staticwebassets\\img\\trend\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\video.mp4",
+      "PackagePath": "staticwebassets\\img\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\1.png",
+      "PackagePath": "staticwebassets\\img\\videos\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\10.png",
+      "PackagePath": "staticwebassets\\img\\videos\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\11.png",
+      "PackagePath": "staticwebassets\\img\\videos\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\12.png",
+      "PackagePath": "staticwebassets\\img\\videos\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\13.png",
+      "PackagePath": "staticwebassets\\img\\videos\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\2.png",
+      "PackagePath": "staticwebassets\\img\\videos\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\3.png",
+      "PackagePath": "staticwebassets\\img\\videos\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\4.png",
+      "PackagePath": "staticwebassets\\img\\videos\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\5.png",
+      "PackagePath": "staticwebassets\\img\\videos\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\6.png",
+      "PackagePath": "staticwebassets\\img\\videos\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\7.png",
+      "PackagePath": "staticwebassets\\img\\videos\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\8.png",
+      "PackagePath": "staticwebassets\\img\\videos\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\9.png",
+      "PackagePath": "staticwebassets\\img\\videos\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\back1.png",
+      "PackagePath": "staticwebassets\\img\\videos\\back1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\back2 - Copy.png",
+      "PackagePath": "staticwebassets\\img\\videos\\back2 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\videos\\back2.png",
+      "PackagePath": "staticwebassets\\img\\videos\\back2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\1.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\2.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\3.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\4.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\5.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\6.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\7.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\img\\wid_popular\\8.png",
+      "PackagePath": "staticwebassets\\img\\wid_popular\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\back-to-top.js",
+      "PackagePath": "staticwebassets\\js\\lib\\back-to-top.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\html5shiv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery-migrate-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-migrate-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery.fancybox.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\lity.js",
+      "PackagePath": "staticwebassets\\js\\lib\\lity.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\pace.js",
+      "PackagePath": "staticwebassets\\js\\lib\\pace.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\parallaxie.js",
+      "PackagePath": "staticwebassets\\js\\lib\\parallaxie.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\scrollIt.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\scrollIt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\slider-mob-touch.js",
+      "PackagePath": "staticwebassets\\js\\lib\\slider-mob-touch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\steps.js",
+      "PackagePath": "staticwebassets\\js\\lib\\steps.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\lib\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\lib\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\css\\preview-style.css",
+      "PackagePath": "staticwebassets\\landing-preview\\css\\preview-style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\Group 2.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\Group 2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\b2.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\b2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\circle.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\1.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\10.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\11.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\2.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\22.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\33.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\44.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\55.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\55.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\66.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\66.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\77.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\77.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\88.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\88.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\9.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\demos\\99.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\demos\\99.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\envato.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\envato.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\1.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\10.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\11.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\12.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\13.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\14.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\15.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\16.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\17.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\18.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\19.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\2.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\20.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\21.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\22.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\23.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\24.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\25.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\26.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\27.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\28.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\29.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\3.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\4.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\5.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\6.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\7.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\8.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\9.jpg",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\header\\mob.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\header\\mob.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\logo_home1.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\logo_home1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\pattern.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\img\\quotes.png",
+      "PackagePath": "staticwebassets\\landing-preview\\img\\quotes.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\landing-preview\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\js\\demo.js",
+      "PackagePath": "staticwebassets\\landing-preview\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\landing-preview\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\prepros-6.config",
+      "PackagePath": "staticwebassets\\landing-preview\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\landing-preview\\scss\\preview-style.scss",
+      "PackagePath": "staticwebassets\\landing-preview\\scss\\preview-style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Kereste.CORE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Kereste.CORE.props",
+      "PackagePath": "build\\Kereste.CORE.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kereste.CORE.props",
+      "PackagePath": "buildMultiTargeting\\Kereste.CORE.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kereste.CORE.props",
+      "PackagePath": "buildTransitive\\Kereste.CORE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

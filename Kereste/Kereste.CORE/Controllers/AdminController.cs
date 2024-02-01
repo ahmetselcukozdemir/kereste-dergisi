@@ -78,6 +78,25 @@ namespace Kereste.CORE.Controllers
             return View(userModel);
 		}
 
+        [HttpPost]
+        public IActionResult UpdateProfile(IFormFile formFile)
+		{
+            var nameSurname = HttpContext.Request.Form["nameSurname"].ToString();
+
+			if (formFile.Length > 0)
+			{
+                var imagePath = "/uploads/" + Guid.NewGuid().ToString() + "_" + formFile.FileName;
+                var physicalPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cdn/users", formFile.FileName);
+
+                using (var stream = new FileStream(physicalPath, FileMode.Create))
+                {
+                    formFile.CopyTo(stream);
+                }
+            }
+
+            return View();
+		}
+
 		public IActionResult Logout()
 		{
             HttpContext.SignOutAsync();

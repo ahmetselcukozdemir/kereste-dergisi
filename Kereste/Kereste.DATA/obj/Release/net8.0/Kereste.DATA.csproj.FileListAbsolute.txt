@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\bin\Release\net8.0\Kereste.DATA.deps.json
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\bin\Release\net8.0\Kereste.DATA.runtimeconfig.json
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\bin\Release\net8.0\Kereste.DATA.dll
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\bin\Release\net8.0\Kereste.DATA.pdb
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.sourcelink.json
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.dll
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\refint\Kereste.DATA.dll
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.pdb
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\Kereste.DATA.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\obj\Release\net8.0\ref\Kereste.DATA.dll

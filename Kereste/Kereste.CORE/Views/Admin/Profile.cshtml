@@ -15,23 +15,23 @@
                 <div class="card">
                   <div class="card-body">
                     <p class="card-description"> Kişisel bilgilerini buradan düzenleyebilirsin. </p>
-                    <form class="forms-sample">
+                    <form class="forms-sample" enctype="multipart/form-data" method="post" action="@Url.Action("UpdateProfile","Admin")">
                       <div class="form-group">
                         <label for="exampleInputName1">Ad-Soyad</label>
-                        <input type="text" class="form-control" value="@Model.NameSurname" id="exampleInputName1" placeholder="Ad-Soyad">
+                        <input type="text" class="form-control" name="nameSurname" value="@Model.NameSurname" id="exampleInputName1" placeholder="Ad-Soyad">
                       </div>
                       <div class="form-group">
                         <label for="exampleInputEmail3">Kullanıcı Adı</label>
-                            <input type="text" class="form-control" value="@Model.Username" id="exampleInputEmail3" placeholder="Kullanıcı Adı">
+                            <input type="text" class="form-control" name="username" value="@Model.Username" id="exampleInputEmail3" placeholder="Kullanıcı Adı">
                       </div>
                         <div class="form-group">
                             <label for="exampleInputEmail3">Email</label>
-                            <input type="text" class="form-control" value="@Model.Email" id="exampleInputEmail3" placeholder="Email">
+                            <input type="text" class="form-control" name="email" value="@Model.Email" id="exampleInputEmail3" placeholder="Email">
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword4">Şifre</label>
                             <div class="input-group">
-                                <input type="password" class="form-control" value="@Model.Password" id="exampleInputPassword4" placeholder="Şifre">
+                                <input type="password" class="form-control" name="password" value="@Model.Password" id="exampleInputPassword4" placeholder="Şifre">
                                 <div class="input-group-append">
                                     <span class="input-group-text">
                                         <input type="checkbox" id="showPassword" onclick="togglePassword()"> Göster
@@ -41,21 +41,21 @@
                         </div>
                         <div class="form-group">
                             <label>Fotoğraf</label>
-                          <input type="file" name="img[]" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
+                            <input type="file" name="formFile" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
                             <div class="input-group col-xs-6">
-                                <input type="file" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo"> 
+                                <input type="file" name="formFile" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
                             </div>
                         </div>
 
                         <div class="form-group">
                             <label>Mevcut Fotoğraf</label>
-                            <img src="@Model.Image" alt="Mevcut Fotoğraf" class="img-thumbnail" id="currentImage" style="max-width: 300px;">
+                            <img src="/cdn/users/@Model.Image" alt="Mevcut Fotoğraf" class="img-thumbnail" id="currentImage" style="max-width: 300px;">
                         </div>
 
 
                       <div class="form-group">
                         <label for="exampleInputCity1">Doğum Tarihi</label>
-                        <input type="text" class="form-control" id="exampleInputCity1" placeholder="Location">
+                            <input type="date" value="@Model.Birthday.Value.Date.ToString("yyyy-MM-dd")" class="form-control" id="exampleInputCity1" placeholder="Location">
                       </div>
                       <button type="submit" class="btn btn-gradient-primary me-2">Kaydet</button>
                     </form>
@@ -78,7 +78,22 @@
     }
 
     function preview() {
-        currentImage.src = URL.createObjectURL(event.target.files[0]);
+        var fileInput = document.getElementById('fileInfo');
+        var currentImage = document.getElementById('currentImage');
+
+        if (fileInput.files.length > 0) {
+            var fileSize = fileInput.files[0].size; // in bytes
+            var maxSize = 1024 * 1024; // 1 MB
+
+            if (fileSize > maxSize) {
+                alert('Resim 1 MB\'den büyük olamaz. Lütfen daha küçük bir resim seçin.');
+                // Optionally clear the file input
+                fileInput.value = '';
+                return;
+            }
+
+            currentImage.src = URL.createObjectURL(fileInput.files[0]);
+        }
     }
 
   

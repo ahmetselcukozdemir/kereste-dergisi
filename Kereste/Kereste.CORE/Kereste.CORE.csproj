@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Kereste.DATA\Kereste.DATA.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\cdn\users\" />
+  </ItemGroup>
+
 </Project>
