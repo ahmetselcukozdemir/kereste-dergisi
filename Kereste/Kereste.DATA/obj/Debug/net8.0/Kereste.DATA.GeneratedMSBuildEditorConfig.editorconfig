@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kereste.DATA
-build_property.ProjectDir = C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\
+build_property.ProjectDir = C:\Users\ahmet.ozdemir\Documents\GitHub\kereste-dergisi\Kereste\Kereste.DATA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

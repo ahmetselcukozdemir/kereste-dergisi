@@ -16,6 +16,7 @@
                   <div class="card-body">
                     <p class="card-description"> Kişisel bilgilerini buradan düzenleyebilirsin. </p>
                     <form class="forms-sample" enctype="multipart/form-data" method="post" action="@Url.Action("UpdateProfile","Admin")">
+                        <input type="text" hidden name="userID" value="@Model.ID">
                       <div class="form-group">
                         <label for="exampleInputName1">Ad-Soyad</label>
                         <input type="text" class="form-control" name="nameSurname" value="@Model.NameSurname" id="exampleInputName1" placeholder="Ad-Soyad">

@@ -12,13 +12,13 @@ namespace Kereste.DATA.Entities
         public int ID { get; set; }
 		[StringLength(30)]
 		public string? Username { get; set; }
-		[StringLength(20)]
+		[StringLength(50)]
 		public string? Password { get; set; }
 		[StringLength(50)]
         public string? NameSurname { get; set; }
         [StringLength(50)]
         public DateTime? Birthday { get; set; }
-        [StringLength(20)]
+        [StringLength(50)]
         public string? Email { get; set; }
         public string? Image { get; set; }
         public bool IsActive { get; set; }

@@ -14,7 +14,7 @@ namespace Kereste.BLL.Services.Abstract
 
 		bool DeleteUser(int userId);
 
-		UserDTO UpdateUser(int userId, UserDTO updatedUser);
+        bool UpdateUser(UserDTO updatedUser);
 
 		List<UserDTO> GetAllUsers();
 

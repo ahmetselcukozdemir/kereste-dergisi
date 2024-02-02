@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
+using Kereste.BLL.DTO;
 
 namespace Kereste.CORE.Controllers
 {
@@ -81,18 +82,58 @@ namespace Kereste.CORE.Controllers
         [HttpPost]
         public IActionResult UpdateProfile(IFormFile formFile)
 		{
-            var nameSurname = HttpContext.Request.Form["nameSurname"].ToString();
-
-			if (formFile.Length > 0)
+			UserDTO dto = new UserDTO();
+            dto.nameSurname = HttpContext.Request.Form["namesurname"].ToString();
+            dto.userName = HttpContext.Request.Form["username"].ToString();
+            dto.password = HttpContext.Request.Form["password"].ToString();
+            dto.email = HttpContext.Request.Form["email"].ToString();
+            dto.userID = Convert.ToInt32(HttpContext.Request.Form["userID"]);
+          
+            if (formFile.Length > 0)
 			{
-                var imagePath = "/uploads/" + Guid.NewGuid().ToString() + "_" + formFile.FileName;
-                var physicalPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cdn/users", formFile.FileName);
+                //var imagePath = "/uploads/" + Guid.NewGuid().ToString() + "_" + formFile.FileName;
+                var fileName = $"{dto.userID}{Path.GetExtension(formFile.FileName)}";
+                var physicalPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cdn/users", fileName);
 
                 using (var stream = new FileStream(physicalPath, FileMode.Create))
                 {
                     formFile.CopyTo(stream);
                 }
+
+                dto.image = fileName;
             }
+
+
+
+		    bool update = _userService.UpdateUser(dto);
+			if (update == true)
+			{
+				HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+                var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, dto.nameSurname),
+                new Claim(ClaimTypes.NameIdentifier, dto.userID.ToString()),
+                new Claim(ClaimTypes.Role, dto.isAdmin == true ? "1" : "0"),
+                new Claim(ClaimTypes.Uri, dto.image != null ? dto.image : "")
+            };
+
+                var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+
+                var authProperties = new AuthenticationProperties
+                {
+                    ExpiresUtc = DateTime.UtcNow.AddMinutes(30),
+                    IsPersistent = true
+                };
+
+                HttpContext.SignInAsync(
+                    CookieAuthenticationDefaults.AuthenticationScheme,
+                    new ClaimsPrincipal(claimsIdentity),
+                    authProperties);
+
+                return RedirectToAction("Profile","Admin");
+			}
+
 
             return View();
 		}

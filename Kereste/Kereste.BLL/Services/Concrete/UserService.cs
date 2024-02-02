@@ -69,9 +69,26 @@ namespace Kereste.BLL.Services.Concrete
 			
 		}
 
-		public UserDTO UpdateUser(int userId, UserDTO updatedUser)
+		public bool UpdateUser(UserDTO updatedUser)
 		{
-			throw new NotImplementedException();
+			var checkUser = _context.Users.FirstOrDefault(x => x.ID == updatedUser.userID);
+
+			if (checkUser != null)
+			{
+				checkUser.NameSurname = updatedUser.nameSurname;
+				checkUser.Username = updatedUser.userName;
+				checkUser.Password = updatedUser.password;
+				checkUser.Email = updatedUser.email;
+				checkUser.Image = updatedUser != null ? updatedUser.image : checkUser.Image;
+				_context.SaveChanges();
+
+				return true;
+			}
+
+			else
+			{
+				return false;
+			}
 		}
 	}
 }

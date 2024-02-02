@@ -4016,19 +4016,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmet.ozdemir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\Kereste.DATA.csproj",
+      "projectUniqueName": "C:\\Users\\ahmet.ozdemir\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\Kereste.DATA.csproj",
       "projectName": "Kereste.DATA",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\Kereste.DATA.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\obj\\",
+      "projectPath": "C:\\Users\\ahmet.ozdemir\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\Kereste.DATA.csproj",
+      "packagesPath": "C:\\Users\\ahmet.ozdemir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmet.ozdemir\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.DATA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmet.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4085,7 +4085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

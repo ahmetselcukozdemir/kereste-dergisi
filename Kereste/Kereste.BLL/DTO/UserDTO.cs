@@ -9,10 +9,12 @@ namespace Kereste.BLL.DTO
 	public class UserDTO
 	{
         public int userID { get; set; }
+        public string nameSurname { get; set; }
         public string userName { get; set; }
 		public string email { get; set; }
 		public string password { get; set; }
-		public bool isActive { get; set; }
+        public string image { get; set; }
+        public bool isActive { get; set; }
         public bool isAdmin { get; set; }
     }
 }
