@@ -62,12 +62,13 @@
                 <ul class="navbar-nav navbar-nav-right">
                     <li class="nav-item nav-profile dropdown">
                         <a class="nav-link dropdown-toggle" id="profileDropdown" href="#" data-bs-toggle="dropdown" aria-expanded="false">
-                            <div class="nav-profile-img">
-                                <img src="~/admin/images/faces/face1.jpg" alt="image">
-                                <span class="availability-status online"></span>
-                            </div>
+                            
                             @if (User.Identity.IsAuthenticated)
                             {
+                                <div class="nav-profile-img">
+                                    <img src="~/cdn/users/@User.FindFirst(ClaimTypes.Uri)?.Value" alt="image">
+                                    <span class="availability-status online"></span>
+                                </div>
                                 <div class="nav-profile-text">
                                     <p class="mb-1 text-black">@User.FindFirst(ClaimTypes.Name)?.Value</p>
                                 </div>

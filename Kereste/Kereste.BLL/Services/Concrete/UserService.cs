@@ -79,7 +79,7 @@ namespace Kereste.BLL.Services.Concrete
 				checkUser.Username = updatedUser.userName;
 				checkUser.Password = updatedUser.password;
 				checkUser.Email = updatedUser.email;
-				checkUser.Image = updatedUser != null ? updatedUser.image : checkUser.Image;
+				checkUser.Image = updatedUser.image != null ? updatedUser.image : checkUser.Image;
 				_context.SaveChanges();
 
 				return true;

@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\cdn\images\" />
     <Folder Include="wwwroot\cdn\users\" />
   </ItemGroup>
 

@@ -1,0 +1,46 @@
+﻿@model Kereste.CORE.Models.Admin.CategoryModel
+@{
+    ViewData["Title"] = "EditCategory";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@Html.Partial("~/Views/partials/_AdminLeftMenu.cshtml")
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title"><b>@Model.Category.categoryName</b> kategorisi düzenle</h4>
+            <form class="forms-sample" enctype="multipart/form-data" action="@Url.Action("UpdateCategory","Admin")" method="post">
+                <input type="hidden" name="categoryID" value="@Model.Category.categoryID">
+                <div class="form-group">
+                    <label for="exampleInputUsername1">Adı</label>
+                    <input type="text" class="form-control" id="exampleInputUsername1" value="@Model.Category.categoryName" name="categoryName" placeholder="Ad">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Açıklama</label>
+                    <input type="text" class="form-control" value="@Model.Category.categoryDesc" name="categoryDesc" placeholder="Açıklama">
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Durum</label>
+                    <div class="col-sm-4">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="isActive" id="membershipRadios1" value="true" @(Model.Category.isActive ? "checked" : "")> Aktif <i class="input-helper"></i>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-sm-5">
+                        <div class="form-check">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="isActive" id="membershipRadios2" value="false" @(Model.Category.isActive ? "" : "checked")> Pasif <i class="input-helper"></i>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+
+                <button type="submit" class="btn btn-gradient-primary me-2">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>

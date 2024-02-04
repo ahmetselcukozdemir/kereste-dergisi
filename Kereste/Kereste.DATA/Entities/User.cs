@@ -23,5 +23,7 @@ namespace Kereste.DATA.Entities
         public string? Image { get; set; }
         public bool IsActive { get; set; }
         public bool isAdmin { get; set; }
+
+        public virtual ICollection<News> News { get; set; }
     }
 }
