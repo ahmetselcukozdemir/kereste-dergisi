@@ -14,42 +14,41 @@
             <div class="col-lg-6 grid-margin stretch-card">
                 <div class="card">
                     <div class="card-body">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>ID</th>
-                                    <th>Ad</th>
-                                    <th>Açıklama</th>
-                                    <th>Aktiflik</th>
-                                    <th>İşlem</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                @foreach (var item in Model.CategoryList)
-                                {
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
                                     <tr>
-                                        <td>@item.categoryID</td>
-                                        <td>@item.categoryName</td>
-                                        <td>@item.categoryDesc</td>
-                                        @if (item.isActive == true)
-                                        {
-                                            <td><label class="badge badge-success">Aktif</label></td>
-                                        }
-                                        else
-                                        {
-                                            <td><label class="badge badge-danger">Değil</label></td>
-                                        }
-                                        <td>
-                                            <a href="@Url.Action("EditCategory","Admin",new { categoryID = item.categoryID})" class="badge badge-warning">Düzenle</a>
-                                            <a href="@Url.Action("DeleteCategory","Admin",new { categoryID = item.categoryID})" class="badge badge-danger">Sil</a>
-                                        </td>
-
+                                        <th>ID</th>
+                                        <th>Ad</th>
+                                        <th>Açıklama</th>
+                                        <th>Aktiflik</th>
+                                        <th>İşlem</th>
                                     </tr>
-
-                                }
-                              
-                            </tbody>
-                        </table>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.CategoryList)
+                                    {
+                                        <tr>
+                                            <td>@item.categoryID</td>
+                                            <td>@item.categoryName</td>
+                                            <td>@item.categoryDesc</td>
+                                            @if (item.isActive == true)
+                                            {
+                                                <td><label class="badge badge-success">Aktif</label></td>
+                                            }
+                                            else
+                                            {
+                                                <td><label class="badge badge-danger">Değil</label></td>
+                                            }
+                                            <td>
+                                                <a href="@Url.Action("EditCategory","Admin",new { categoryID = item.categoryID})" class="badge badge-warning">Düzenle</a>
+                                                <a href="@Url.Action("DeleteCategory","Admin",new { categoryID = item.categoryID})" class="badge badge-danger">Sil</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -83,18 +82,15 @@
                                     </div>
                                 </div>
                             </div>
-                          
                             <button type="submit" class="btn btn-gradient-primary me-2">Kaydet</button>
                         </form>
                     </div>
                 </div>
             </div>
-          
-          
         </div>
     </div>
-   
 </div>
+
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         var isActiveCheckbox = document.getElementById("isActiveCheckbox");

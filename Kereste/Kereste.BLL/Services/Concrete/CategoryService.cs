@@ -59,6 +59,17 @@ namespace Kereste.BLL.Services.Concrete
                 isActive = x.isActive
             }).ToList();
         }
+        public List<CategoryDTO> GetAllCategories(int count)
+        {
+            return _context.Categories.Select(x => new CategoryDTO
+            {
+                categoryDesc = x.Description,
+                categoryID = x.ID,
+                categoryImg = x.Image,
+                categoryName = x.Name,
+                isActive = x.isActive
+            }).ToList();
+        }
 
         public CategoryDTO GetCategoryById(int id)
         {
@@ -70,6 +81,11 @@ namespace Kereste.BLL.Services.Concrete
                 categoryName = x.Name,
                 isActive = x.isActive
             }).FirstOrDefault();
+        }
+
+        public int GetCategoryCount()
+        {
+            return _context.Categories.Where(x => x.isActive == true).Count();
         }
 
         public bool UpdateCategory(CategoryDTO model)

@@ -1,0 +1,63 @@
+﻿@model Kereste.CORE.Models.Admin.NewsModel
+@{
+    ViewData["Title"] = "NewsList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@Html.Partial("~/Views/partials/_AdminLeftMenu.cshtml")
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="page-header">
+            <h3 class="page-title"> Yazılarım </h3>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Admin Panel</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Yazılarım</li>
+                </ol>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Başlık</th>
+                                        <th>Yayınlanma Tarihi</th>
+                                        <th>Durum</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.NewsList)
+                                    {
+                                        <tr>
+                                            <td>@item.NewsID</td>
+                                            <td>@item.Title</td>
+                                            <td>@item.PublishDate</td>
+                                            @if (item.Status == 1)
+                                            {
+                                                <td><label class="badge badge-success">Yayında</label></td>
+                                            }
+                                            else
+                                            {
+                                                <td><label class="badge badge-danger">Pasif</label></td>
+                                            }
+                                            <td>
+                                                <label class="badge badge-success"><a href="@Url.Action("EditNews","Admin",new {newsID=item.NewsID})">Düzenle</a></label>
+                                                @*  <label class="badge badge-danger">Sil</label> *@
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

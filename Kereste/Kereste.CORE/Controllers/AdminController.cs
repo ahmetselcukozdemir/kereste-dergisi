@@ -8,27 +8,42 @@ using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 using Kereste.BLL.DTO;
 using Kereste.CORE.Models.Admin;
+using Microsoft.EntityFrameworkCore;
+using Kereste.DATA.Contexts;
 
 namespace Kereste.CORE.Controllers
 {
     public class AdminController : Controller
     {
+        private KeresteDBContext _context;
         private readonly IConfiguration _config;
         private readonly IUserService _userService;
         private readonly ICategoryService _categoryService;
-        public AdminController(IConfiguration config,IUserService userService,ICategoryService categoryService)
+        private readonly IDocumentService _documentService;
+        private readonly IContentService _contentService;
+        public AdminController(KeresteDBContext context,IConfiguration config,IUserService userService,ICategoryService categoryService,IDocumentService documentService,IContentService contentService)
         {
+            _context = context;
             _config = config;
            _userService = userService;
             _categoryService = categoryService;
+            _documentService = documentService;
+            _contentService = contentService;
         }
 
 
 		[Authorize]
 		public IActionResult Index()
         {
+            Models.Admin.HomeModel model = new Models.Admin.HomeModel();
+            model.CategoryCount = _categoryService.GetCategoryCount();
+            model.UserCount = _userService.GetUserCount();
+            model.NewsCount = _contentService.GetNewsCount();
+            model.LastNewsList = _contentService.GetNews(10);
+            model.LastCategoryList = _categoryService.GetAllCategories(10);
+            model.LastUserList = _userService.GetAllUsers(10);
 
-            return View();
+            return View(model);
         }
 
         #region Profile
@@ -53,22 +68,14 @@ namespace Kereste.CORE.Controllers
             dto.password = HttpContext.Request.Form["password"].ToString();
             dto.email = HttpContext.Request.Form["email"].ToString();
             dto.userID = Convert.ToInt32(HttpContext.Request.Form["userID"]);
+            string imageProfile = "";
+
 
             if (formFile.Length > 0)
             {
-                //var imagePath = "/uploads/" + Guid.NewGuid().ToString() + "_" + formFile.FileName;
-                var fileName = $"{dto.userID}{Path.GetExtension(formFile.FileName)}";
-                var physicalPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "cdn/users", fileName);
-
-                using (var stream = new FileStream(physicalPath, FileMode.Create))
-                {
-                    formFile.CopyTo(stream);
-                }
-
-                dto.image = fileName;
+                imageProfile = _documentService.CopyImageProfile(formFile, "UserImagePathUpload");
+                dto.image = imageProfile;
             }
-
-
 
             bool update = _userService.UpdateUser(dto);
             if (update == true)
@@ -159,6 +166,7 @@ namespace Kereste.CORE.Controllers
 
 
         #region Category
+        [Authorize]
         public IActionResult Category()
         {
             CategoryModel model = new CategoryModel();
@@ -168,6 +176,7 @@ namespace Kereste.CORE.Controllers
             return View(model);
         }
 
+        [Authorize]
         public IActionResult AddCategory(CategoryDTO model)
         {
             if (model != null)
@@ -182,7 +191,7 @@ namespace Kereste.CORE.Controllers
             }
             return RedirectToAction("Category", "Admin");
         }
-
+        [Authorize]
         public IActionResult EditCategory(int categoryID)
         {
             CategoryModel model = new CategoryModel();
@@ -205,7 +214,7 @@ namespace Kereste.CORE.Controllers
             }
             return RedirectToAction("Category", "Admin");
         }
-
+        [Authorize]
         public IActionResult DeleteCategory(int categoryID)
         {
             bool check = _categoryService.DeleteCategory(categoryID);
@@ -220,6 +229,7 @@ namespace Kereste.CORE.Controllers
 
 
         #region news
+        [Authorize]
         public IActionResult AddNews()
         {
             NewsModel model = new NewsModel();
@@ -228,17 +238,150 @@ namespace Kereste.CORE.Controllers
 
             return View(model);
         }
+        [Authorize]
         [HttpPost]
         public IActionResult AddNews(NewsDTO model,IFormFile headImage, IFormFile detailImage)
         {
-            return View();
-        }
+            ClaimsPrincipal user = HttpContext.User;
 
+            string userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+            User userModel = _userService.GetUserById(Convert.ToInt32(userId));
+
+
+            string headImageLink = "";
+            string detailImageLink = "";
+
+            if (headImage != null)
+            {
+                headImageLink = _documentService.CopyImage(headImage, "ImagePathUpload");
+            }
+
+            if (detailImage != null)
+            {
+                detailImageLink = _documentService.CopyImage(detailImage, "ImagePathUpload");
+            }
+
+            var title = HttpContext.Request.Form["title"];
+            var alternatetitle = HttpContext.Request.Form["alternatetitle"];
+            var spot = HttpContext.Request.Form["spot"];
+            var body = HttpContext.Request.Form["body"];
+            var tags = HttpContext.Request.Form["tags"];
+            var publishdate = Convert.ToDateTime(HttpContext.Request.Form["publishdate"]);
+            var categoryid = Convert.ToInt32(HttpContext.Request.Form["categoryid"]);
+            var category = _context.Categories.FirstOrDefault(c => c.ID == categoryid);
+            var activestatus = HttpContext.Request.Form["activestatus"];
+            string selflink = Kereste.BLL.Helpers.Utils.ToSeoUrl(title);
+
+            News news = new News();
+
+            news.Title = title;
+            news.AlternativeTitle = alternatetitle;
+            news.Spot = spot;
+            news.Body = body;
+            news.Tags = tags.ToString();
+            news.Category = category;
+            news.HeadImage = headImageLink;
+            news.VerticalImage = detailImageLink;
+            news.PublishDate = publishdate;
+            news.InsertedDate = DateTime.Now;
+            news.Status = activestatus == "true" ? 1 : 0;
+            news.SelfLink = selflink;
+            news.User = userModel;
+            var boolCheck = _contentService.AddContent(news);
+            if (boolCheck == true)
+            {
+                return RedirectToAction("NewsList","Admin");
+            }
+            return RedirectToAction("AddNews", "Admin");
+        }
+        [Authorize]
+        public IActionResult EditNews(int newsID)
+        {
+            NewsModel model = new NewsModel();
+            model.News = _contentService.GetNewsByID(newsID);
+            model.CategoryList = _categoryService.GetAllCategories();
+            return View(model);
+        }
+        [Authorize]
+        [HttpPost]
+        public IActionResult UpdateNews(NewsDTO model, IFormFile headImage, IFormFile detailImage)
+        {
+            ClaimsPrincipal user = HttpContext.User;
+
+            string userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+            User userModel = _userService.GetUserById(Convert.ToInt32(userId));
+
+
+            string headImageLink = "";
+            string detailImageLink = "";
+
+            if (headImage != null)
+            {
+                headImageLink = _documentService.CopyImage(headImage, "ImagePathUpload");
+            }
+
+            if (detailImage != null)
+            {
+                detailImageLink = _documentService.CopyImage(detailImage, "ImagePathUpload");
+            }
+
+            var title = HttpContext.Request.Form["title"];
+            var alternatetitle = HttpContext.Request.Form["alternatetitle"];
+            var spot = HttpContext.Request.Form["spot"];
+            var body = HttpContext.Request.Form["body"];
+            var tags = HttpContext.Request.Form["tags"];
+            var publishdate = Convert.ToDateTime(HttpContext.Request.Form["publishdate"]);
+            var categoryid = Convert.ToInt32(HttpContext.Request.Form["categoryid"]);
+            var category = _context.Categories.FirstOrDefault(c => c.ID == categoryid);
+            var activestatus = HttpContext.Request.Form["activestatus"];
+            string selflink = Kereste.BLL.Helpers.Utils.ToSeoUrl(title);
+            var oldImageDetail = HttpContext.Request.Form["oldImageDetail"];
+            var oldImageHead = HttpContext.Request.Form["oldImageHead"];
+            var newsID = Convert.ToInt32(HttpContext.Request.Form["newsID"]);
+            News news = new News();
+            news.ID = newsID;
+            news.Title = title;
+            news.AlternativeTitle = alternatetitle;
+            news.Spot = spot;
+            news.Body = body;
+            news.Tags = tags.ToString();
+            news.Category = category;
+            news.HeadImage = headImage != null ? headImageLink : oldImageHead;
+            news.VerticalImage = detailImageLink != null ? detailImageLink : oldImageHead;
+            news.PublishDate = publishdate;
+            news.InsertedDate = DateTime.Now;
+            news.Status = activestatus == "true" ? 1 : 0;
+            news.SelfLink = selflink;
+            news.User = userModel;
+            var boolCheck = _contentService.UpdateContent(news);
+            if (boolCheck == true)
+            {
+                return RedirectToAction("NewsList", "Admin");
+            }
+            return RedirectToAction("AddNews", "Admin");
+        }
+        [Authorize]
+        public IActionResult NewsList(int page=0,int count=30)
+        {
+            NewsModel model = new NewsModel();
+
+            ClaimsPrincipal user = HttpContext.User;
+
+            string userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+            User userModel = _userService.GetUserById(Convert.ToInt32(userId));
+
+            
+            model.NewsList = _contentService.GetNews(userModel.ID,count,page);
+            return View(model);
+        }
 
         #endregion
 
         #region utils
-
+        [Authorize]
         public JsonResult UploadImage()
         {
             DefaultClass rd = new DefaultClass();
@@ -248,8 +391,8 @@ namespace Kereste.CORE.Controllers
 
                 if (file.ContentType.ToLower().Contains("jpg") || file.ContentType.ToLower().Contains("png") || file.ContentType.ToLower().Contains("jpeg"))
                 {
-                    string fileName = UploadFileAjax(file, "GalleryPath");
-                    rd.imgDefault = _config["CDNURL"] + "/gallery/" + fileName;
+                    string fileName = _documentService.CopyImage(file, "ImagePathUpload");
+                    rd.imgDefault = _config["ImagePath"] + fileName;
                     return Json(rd);
                 }
 

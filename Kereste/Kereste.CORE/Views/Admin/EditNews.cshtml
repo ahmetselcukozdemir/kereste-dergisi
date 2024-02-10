@@ -1,0 +1,114 @@
+﻿@model Kereste.CORE.Models.Admin.NewsModel
+@{
+    ViewData["Title"] = "AddNews";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+@Html.Partial("~/Views/partials/_AdminLeftMenu.cshtml")
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="page-header">
+            <h3 class="page-title"> Yeni Yazı</h3>
+        </div>
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <form class="forms-sample" action="@Url.Action("UpdateNews","Admin")" enctype="multipart/form-data" method="post">
+                            <input type="hidden" value="@Model.News.NewsID" name="newsID" />
+                            <div class="form-group">
+                                <label for="exampleInputUsername1">Başlık</label>
+                                <input type="text" name="title" value="@Model.News.Title" class="form-control" id="exampleInputUsername1" placeholder="Başlık giriniz.">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1">Alternatif Başlık</label>
+                                <input type="text" name="alternatetitle" value="@Model.News.AlternativeTitle" class="form-control" id="exampleInputEmail1" placeholder="Alternatif Başlıl girin.">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleSelectGender">Kategori</label>
+                                <select class="form-control" name="categoryid" id="exampleSelectGender">
+                                    @foreach (var item in Model.CategoryList)
+                                    {
+                                        if (item.categoryID == Model.News.Category.ID)
+                                        {
+                                            <option value="@item.categoryID" selected>@item.categoryName</option>
+                                        }
+                                           else
+                                        {
+                                            <option value="@item.categoryID">@item.categoryName</option>
+                                        }
+                                        
+                                        
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleTextarea1">Spot</label>
+                                <textarea class="form-control" name="spot"  id="exampleTextarea1" placeholder="Spot giriniz." rows="4">@Model.News.Spot</textarea>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleTextarea1">İçerik</label>
+                                <textarea class="form-control" name="body" rows="5" id="editor1" value="@Model.News.Body" placeholder="İçerik giriniz.">
+                                    @Html.Raw(Model.News.Body)
+                                </textarea>
+                            </div>
+                            <div class="form-group">
+                                <label>Manşet Fotoğrafı</label>
+                                <input type="file" name="headImage" class="file-upload-default" value="@Model.News.HeadImage" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
+                                <div class="input-group col-xs-6">
+                                    <input type="file" name="headImage" class="form-control file-upload-info" value="@Model.News.HeadImage" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
+                                </div>
+                                <input type="hidden" value="@Model.News.HeadImage" name="oldImageHead" />
+                                <img src="@Model.News.HeadImage" class="mt-4" style="max-width:100%; max-height:auto" id="prevImg">
+                            </div>
+                            <div class="form-group">
+                                <label>Detay Fotoğrafı</label>
+                                <input type="file" name="detailImage"  class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
+                                <div class="input-group col-xs-6">
+                                    <input type="file" name="detailImage"  class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
+                                </div>
+                                <input type="hidden" value="@Model.News.DetailImage" name="oldImageDetail" />
+                                <img src="@Model.News.DetailImage" name="oldImageDetail" class="mt-4" style="max-width:100%; max-height:auto" id="prevImg">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleTextarea1">Etiket(Etiketler arasına virgül koyup yazınız.)</label>
+                                <textarea class="form-control" name="tags" id="exampleTextarea1" rows="1">@Html.Raw(Model.News.Tags)</textarea>
+                            </div>
+
+                            <div class="form-group row">
+                                <label class="col-sm-3 col-form-label">Durum</label>
+                                <div class="col-sm-4">
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input type="radio" class="form-check-input" name="activestatus" id="membershipRadios1" value="true" checked=""> Aktif <i class="input-helper"></i>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input type="radio" class="form-check-input" name="activestatus" id="membershipRadios2" value="false"> Pasif <i class="input-helper"></i>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputCity1">Yayın Tarihi</label>
+                                <input type="datetime-local" name="publishdate" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss")" class="form-control" id="exampleInputDateTime1" placeholder="Tarih ve Saat Seçiniz">
+
+                            </div>
+
+                            <button type="submit" class="btn btn-gradient-primary me-2">Güncelle</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script src="~/admin/js/ckeditor/ckeditor.js"></script>
+<script src="~/admin/js/ckplugin.js"></script>

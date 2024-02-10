@@ -18,7 +18,11 @@ namespace Kereste.BLL.Services.Abstract
 
 		List<UserDTO> GetAllUsers();
 
-		User GetUserByUser(string username,string password);
+        List<UserDTO> GetAllUsers(int count);
+
+        User GetUserByUser(string username,string password);
         User GetUserById(int id);
+
+		int GetUserCount();	
     }
 }

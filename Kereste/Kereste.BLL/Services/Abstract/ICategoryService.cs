@@ -10,7 +10,9 @@ namespace Kereste.BLL.Services.Abstract
     public interface ICategoryService
     {
         bool AddCategory(CategoryDTO model);
+        int GetCategoryCount();
         List<CategoryDTO> GetAllCategories();
+        List<CategoryDTO> GetAllCategories(int count);
         CategoryDTO GetCategoryById(int id);
         bool UpdateCategory(CategoryDTO model);
         bool DeleteCategory(int id);

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.WebRequestMethods;
 
 namespace Kereste.BLL.Services.Concrete
 {
@@ -50,6 +51,25 @@ namespace Kereste.BLL.Services.Concrete
 			throw new NotImplementedException();
 		}
 
+        public List<UserDTO> GetAllUsers(int count)
+        {
+            List<UserDTO> getList = (from user in _context.Users.Where(t => t.IsActive == true)
+                                     orderby user.ID descending
+                                     select new UserDTO
+                                     {
+                                       userID = user.ID,
+									   userName = user.Username,
+									   email = user.Email,
+									   nameSurname = user.NameSurname,
+									   isActive = user.IsActive,
+									   isAdmin = user.isAdmin,
+                                       password = user.Password,
+									   image = "https://cdn.kerestedergi.com/users" + user.Image
+                                     }).Take(count).ToList();
+
+			return getList;
+        }
+
         public User GetUserById(int id)
         {
            return _context.Users.FirstOrDefault(x => x.ID == id);
@@ -69,7 +89,12 @@ namespace Kereste.BLL.Services.Concrete
 			
 		}
 
-		public bool UpdateUser(UserDTO updatedUser)
+        public int GetUserCount()
+        {
+			return _context.Users.Where(x => x.IsActive == true).Count();
+        }
+
+        public bool UpdateUser(UserDTO updatedUser)
 		{
 			var checkUser = _context.Users.FirstOrDefault(x => x.ID == updatedUser.userID);
 

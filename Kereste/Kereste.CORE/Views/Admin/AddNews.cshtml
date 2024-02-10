@@ -18,15 +18,15 @@
                         <form class="forms-sample" action="@Url.Action("AddNews","Admin")"enctype="multipart/form-data" method="post">
                             <div class="form-group">
                                 <label for="exampleInputUsername1">Başlık</label>
-                                <input type="text" class="form-control" id="exampleInputUsername1" placeholder="Başlık giriniz.">
+                                <input type="text" name="title" class="form-control" id="exampleInputUsername1" placeholder="Başlık giriniz.">
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputEmail1">Alternatif Başlık</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email giriniz.">
+                                <input type="text" name="alternatetitle" class="form-control" id="exampleInputEmail1" placeholder="Alternatif Başlıl girin.">
                             </div>
                             <div class="form-group">
                                 <label for="exampleSelectGender">Kategori</label>
-                                <select class="form-control" id="exampleSelectGender">
+                                <select class="form-control" name="categoryid" id="exampleSelectGender">
                                     @foreach (var item in Model.CategoryList)
                                     {
                                         <option value="@item.categoryID">@item.categoryName</option>
@@ -35,29 +35,29 @@
                             </div>
                             <div class="form-group">
                                 <label for="exampleTextarea1">Spot</label>
-                                <textarea class="form-control" id="exampleTextarea1" placeholder="Spot giriniz." rows="4"></textarea>
+                                <textarea class="form-control" name="spot" id="exampleTextarea1" placeholder="Spot giriniz." rows="4"></textarea>
                             </div>
                             <div class="form-group">
                                 <label for="exampleTextarea1">İçerik</label>
-                                <textarea class="form-control" id="editor1" placeholder="İçerik giriniz."></textarea>
+                                <textarea class="form-control" name="body" id="editor1" style="min-height:300px;" placeholder="İçerik giriniz."></textarea>
                             </div>
                             <div class="form-group">
                                 <label>Manşet Fotoğrafı</label>
-                                <input type="file" name="formFile" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
+                                <input type="file" name="headImage" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
                                 <div class="input-group col-xs-6">
-                                    <input type="file" name="formFile" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
+                                    <input type="file" name="headImage" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label>Detay Fotoğrafı</label>
-                                <input type="file" name="formFile" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
+                                <input type="file" name="detailImage" class="file-upload-default" id="fileInput" accept="image/*" onchange="displaySelectedImage()">
                                 <div class="input-group col-xs-6">
-                                    <input type="file" name="formFile" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
+                                    <input type="file" name="detailImage" class="form-control file-upload-info" onchange="preview()" placeholder="Resim Seç" id="fileInfo">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="exampleTextarea1">Etiket(Etiketler arasına virgül koyup yazınız.)</label>
-                                <textarea class="form-control" id="exampleTextarea1" rows="1"></textarea>
+                                <textarea class="form-control" name="tags" id="exampleTextarea1" rows="1"></textarea>
                             </div>
 
                             <div class="form-group row">
@@ -65,26 +65,25 @@
                                 <div class="col-sm-4">
                                     <div class="form-check">
                                         <label class="form-check-label">
-                                            <input type="radio" class="form-check-input" name="isActive" id="membershipRadios1" value="true" checked=""> Aktif <i class="input-helper"></i>
+                                            <input type="radio" class="form-check-input" name="activestatus" id="membershipRadios1" value="true" checked=""> Aktif <i class="input-helper"></i>
                                         </label>
                                     </div>
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="form-check">
                                         <label class="form-check-label">
-                                            <input type="radio" class="form-check-input" name="isActive" id="membershipRadios2" value="false"> Pasif <i class="input-helper"></i>
+                                            <input type="radio" class="form-check-input" name="activestatus" id="membershipRadios2" value="false"> Pasif <i class="input-helper"></i>
                                         </label>
                                     </div>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="exampleInputCity1">Yayın Tarihi</label>
-                                <input type="datetime-local" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss")" class="form-control" id="exampleInputDateTime1" placeholder="Tarih ve Saat Seçiniz">
+                                <input type="datetime-local" name="publishdate" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss")" class="form-control" id="exampleInputDateTime1" placeholder="Tarih ve Saat Seçiniz">
 
                             </div>
 
                             <button type="submit" class="btn btn-gradient-primary me-2">Kaydet</button>
-                            <button class="btn btn-light">Cancel</button>
                         </form>
                     </div>
                 </div>

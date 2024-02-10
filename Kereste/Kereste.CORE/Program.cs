@@ -11,6 +11,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IDocumentService, DocumentService>();
+builder.Services.AddScoped<IContentService, ContentService>();
 
 
 var connectionString = builder.Configuration.GetConnectionString("DB");
@@ -40,6 +42,22 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+
+app.MapControllerRoute(
+    name: "kategorilerim",
+    pattern: "/admin/kategoriler/",
+    defaults: new { controller = "Admin", action = "Category" });
+
+app.MapControllerRoute(
+    name: "yeni-yazi",
+    pattern: "/admin/yeni-yazi/",
+    defaults: new { controller = "Admin", action = "AddNews" });
+
+app.MapControllerRoute(
+    name: "yazilarim",
+    pattern: "/admin/yazilarim/",
+    defaults: new { controller = "Admin", action = "NewsList" });
 
 app.MapControllerRoute(
     name: "cikis-yap",

@@ -5,7 +5,7 @@
         <li class="nav-item nav-profile">
             <a href="#" class="nav-link">
                 <div class="nav-profile-image">
-                    <img src="~/cdn/users/@User.FindFirst(ClaimTypes.Uri)?.Value" alt="profile">
+                    <img src="https://cdn.kerestedergi.com/users/@User.FindFirst(ClaimTypes.Uri)?.Value" alt="profile">
                     <span class="login-status online"></span>
                     <!--change to offline or busy as needed-->
                 </div>
@@ -34,9 +34,9 @@
                 <i class="menu-arrow"></i>
                 <i class="mdi mdi-crosshairs-gps menu-icon"></i>
             </a>
-            <div class="collapse show" id="ui-basic" style="">
+            <div class="collapse " id="ui-basic" style="">
                 <ul class="nav flex-column sub-menu">
-                    <li class="nav-item"> <a class="nav-link" href="@Url.Action("AddNews","Admin")">Yazılarım</a></li>
+                    <li class="nav-item"> <a class="nav-link" href="@Url.Action("NewsList","Admin")">Yazılarım</a></li>
                     <li class="nav-item"> <a class="nav-link" href="@Url.Action("AddNews","Admin")">Yeni Yazı</a></li>
                 </ul>
             </div>
@@ -47,29 +47,37 @@
                 <i class="mdi mdi-format-list-bulleted menu-icon"></i>
             </a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="pages/charts/chartjs.html">
+       @*  <li class="nav-item">
+            <a class="nav-link" href="#">
                 <span class="menu-title">Yorumlar</span>
                 <i class="mdi mdi-chart-bar menu-icon"></i>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="pages/tables/basic-table.html">
+            <a class="nav-link" href="#">
                 <span class="menu-title">Mesajlar</span>
                 <i class="mdi mdi-table-large menu-icon"></i>
             </a>
-        </li>
-        
+        </li> *@
+
         <li class="nav-item sidebar-actions">
             <span class="nav-link">
-                <div class="border-bottom">
-                    <h6 class="font-weight-normal mb-3">Kereste Dergisi</h6>
-                </div>
+                <a class="btn btn-block btn-lg btn-gradient-success mt-4" target="_blank" href="@Url.Action("Index","Home")">
+                    Siteye Git
+                </a>
+
+            </span>
+        </li>
+
+        <li class="nav-item sidebar-actions">
+            <span class="nav-link">
                 <a class="btn btn-block btn-lg btn-gradient-primary mt-4" href="@Url.Action("Logout","Admin")">
                     Çıkış Yap
                 </a>
              
             </span>
         </li>
+
+
     </ul>
 </nav>
