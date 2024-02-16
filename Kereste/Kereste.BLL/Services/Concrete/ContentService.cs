@@ -76,6 +76,7 @@ namespace Kereste.BLL.Services.Concrete
                                          UpdatedDate = news.UpdatedDate,
                                          HeadImage = _config["ImagePath"] + news.HeadImage,
                                          DetailImage = _config["ImagePath"] + news.VerticalImage,
+                                         External = news.ExternalLink
                                      }).FirstOrDefault();
             return getNews;
         }
@@ -99,6 +100,7 @@ namespace Kereste.BLL.Services.Concrete
                     news.Tags = model.Tags;
                     news.Status = model.Status;
                     news.Category = model.Category;
+                    news.ExternalLink = model.ExternalLink;
                     _context.SaveChanges();
                     return true;
                 }

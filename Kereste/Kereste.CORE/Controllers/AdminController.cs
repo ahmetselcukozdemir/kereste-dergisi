@@ -271,6 +271,7 @@ namespace Kereste.CORE.Controllers
             var categoryid = Convert.ToInt32(HttpContext.Request.Form["categoryid"]);
             var category = _context.Categories.FirstOrDefault(c => c.ID == categoryid);
             var activestatus = HttpContext.Request.Form["activestatus"];
+            var external = HttpContext.Request.Form["external"];
             string selflink = Kereste.BLL.Helpers.Utils.ToSeoUrl(title);
 
             News news = new News();
@@ -288,6 +289,7 @@ namespace Kereste.CORE.Controllers
             news.Status = activestatus == "true" ? 1 : 0;
             news.SelfLink = selflink;
             news.User = userModel;
+            news.ExternalLink = external;
             var boolCheck = _contentService.AddContent(news);
             if (boolCheck == true)
             {
@@ -340,6 +342,7 @@ namespace Kereste.CORE.Controllers
             var oldImageDetail = HttpContext.Request.Form["oldImageDetail"];
             var oldImageHead = HttpContext.Request.Form["oldImageHead"];
             var newsID = Convert.ToInt32(HttpContext.Request.Form["newsID"]);
+            var external = HttpContext.Request.Form["external"];
             News news = new News();
             news.ID = newsID;
             news.Title = title;
@@ -355,6 +358,7 @@ namespace Kereste.CORE.Controllers
             news.Status = activestatus == "true" ? 1 : 0;
             news.SelfLink = selflink;
             news.User = userModel;
+            news.ExternalLink = external;
             var boolCheck = _contentService.UpdateContent(news);
             if (boolCheck == true)
             {
@@ -363,7 +367,8 @@ namespace Kereste.CORE.Controllers
             return RedirectToAction("AddNews", "Admin");
         }
         [Authorize]
-        public IActionResult NewsList(int page=0,int count=30)
+        [HttpGet]
+        public IActionResult NewsList(int page=0,int count=30,int? categorySelect=null,string? keyword = null)
         {
             NewsModel model = new NewsModel();
 
@@ -372,9 +377,13 @@ namespace Kereste.CORE.Controllers
             string userId = user.FindFirst(ClaimTypes.NameIdentifier)?.Value;
 
             User userModel = _userService.GetUserById(Convert.ToInt32(userId));
-
             
             model.NewsList = _contentService.GetNews(userModel.ID,count,page);
+
+            model.CategoryList = _categoryService.GetAllCategories();
+
+           
+
             return View(model);
         }
 

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n28Q8vcs7biy/Br4IAe7hUU55CcFf0FteWrQ+vB7dvW32jvOFwiMWOUtLfqHImWaTQJdHxgW4HZyeDtEln4Uvw==",
+  "dgSpecHash": "e+aTD87speGYzWIh7AfckUnhtC15O7TPNthBHpk8yPPDn1cRicCF+0qDuBG0vnxj4wYUGiuCrr2YlRucnM3zCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\Kereste.CORE.csproj",
   "expectedPackageFiles": [
@@ -63,10 +63,15 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\microsoft.aspnetcore.components.quickgrid.8.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter\\8.0.1\\microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.8.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.1\\microsoft.aspnetcore.components.web.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.1\\microsoft.aspnetcore.metadata.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\8.0.1\\microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.build.framework\\17.7.2\\microsoft.build.framework.17.7.2.nupkg.sha512",

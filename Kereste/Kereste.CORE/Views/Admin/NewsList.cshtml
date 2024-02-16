@@ -7,6 +7,20 @@
 
 <div class="main-panel">
     <div class="content-wrapper">
+        <div class="form-group">
+            <label for="categorySelect">Filtreleme</label>
+            <form method="get"  action="@Url.Action("NewsList","Admin")">
+                <select class="form-control" name="categorySelect" id="categorySelect">
+                <option value="">-- Kategori Seç --</option>
+                @foreach (var category in Model.CategoryList)
+                {
+                    <option value="@category.categoryID">@category.categoryName</option>
+                }
+            </select>
+                <input type="text" name="newsID" placeholder="Kelime Ara.." />
+                <button class="btn btn-success" type="submit">Filtrele</button>
+            </form>
+        </div>
         <div class="page-header">
             <h3 class="page-title"> Yazılarım </h3>
             <nav aria-label="breadcrumb">

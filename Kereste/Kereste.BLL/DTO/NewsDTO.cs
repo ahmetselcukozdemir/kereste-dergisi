@@ -22,5 +22,6 @@ namespace Kereste.BLL.DTO
         public string DetailImage { get; set; }
         public string Tags { get; set; }
         public int Status { get; set; }
+        public string External { get; set; }
     }
 }

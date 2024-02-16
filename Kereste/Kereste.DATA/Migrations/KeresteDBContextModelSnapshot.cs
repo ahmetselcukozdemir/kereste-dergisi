@@ -61,7 +61,6 @@ namespace Kereste.DATA.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
                     b.Property<string>("AlternativeTitle")
-                        .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
@@ -72,8 +71,11 @@ namespace Kereste.DATA.Migrations
                     b.Property<int>("CategoryID")
                         .HasColumnType("int");
 
+                    b.Property<string>("ExternalLink")
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
                     b.Property<string>("HeadImage")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("InsertedDate")
@@ -84,7 +86,8 @@ namespace Kereste.DATA.Migrations
 
                     b.Property<string>("SelfLink")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("Spot")
                         .IsRequired()
@@ -95,7 +98,6 @@ namespace Kereste.DATA.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Tags")
-                        .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -111,7 +113,6 @@ namespace Kereste.DATA.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("VerticalImage")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ID");
