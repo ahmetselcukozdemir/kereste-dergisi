@@ -17,7 +17,7 @@ namespace Kereste.DATA.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.1")
+                .HasAnnotation("ProductVersion", "8.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -124,6 +124,27 @@ namespace Kereste.DATA.Migrations
                     b.ToTable("News");
                 });
 
+            modelBuilder.Entity("Kereste.DATA.Entities.NewsRating", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<int>("Hit")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NewsID")
+                        .HasColumnType("int");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("NewsID");
+
+                    b.ToTable("NewsRatings");
+                });
+
             modelBuilder.Entity("Kereste.DATA.Entities.User", b =>
                 {
                     b.Property<int>("ID")
@@ -183,6 +204,17 @@ namespace Kereste.DATA.Migrations
                     b.Navigation("Category");
 
                     b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Kereste.DATA.Entities.NewsRating", b =>
+                {
+                    b.HasOne("Kereste.DATA.Entities.News", "News")
+                        .WithMany()
+                        .HasForeignKey("NewsID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("News");
                 });
 
             modelBuilder.Entity("Kereste.DATA.Entities.Category", b =>

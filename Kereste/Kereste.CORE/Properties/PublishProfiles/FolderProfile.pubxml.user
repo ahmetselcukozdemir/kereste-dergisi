@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.CORE\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2024-01-31T16:28:43.9465244Z;</History>
+    <History>True|2024-02-18T11:21:13.4325766Z;True|2024-02-18T14:20:55.7158706+03:00;True|2024-01-31T19:28:43.9465244+03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

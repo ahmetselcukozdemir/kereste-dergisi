@@ -23,5 +23,6 @@ namespace Kereste.BLL.DTO
         public string Tags { get; set; }
         public int Status { get; set; }
         public string External { get; set; }
+        public string SelfLink { get; set; }
     }
 }

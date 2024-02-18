@@ -14,6 +14,7 @@ namespace Kereste.BLL.Services.Abstract
         List<CategoryDTO> GetAllCategories();
         List<CategoryDTO> GetAllCategories(int count);
         CategoryDTO GetCategoryById(int id);
+        CategoryDTO GetCategoryByName(string name);
         bool UpdateCategory(CategoryDTO model);
         bool DeleteCategory(int id);
     }

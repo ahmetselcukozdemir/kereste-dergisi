@@ -281,6 +281,1746 @@
       "PackagePath": "staticwebassets\\admin\\js\\chart.js"
     },
     {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\kama\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\kama\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\default.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\kama\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\kama\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\moono-lisa\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\moono-lisa\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\moono\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\balloontoolbar\\skins\\moono\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\cloudservices\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\cloudservices\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\dialogs\\easyimagealt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\dialogs\\easyimagealt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealigncenter.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealigncenter.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealignleft.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealignleft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealignright.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealignright.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealt.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagealt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagefull.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimagefull.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimageside.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimageside.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimageupload.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\easyimageupload.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealigncenter.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealigncenter.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealignleft.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealignleft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealignright.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealignright.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealt.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagealt.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagefull.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimagefull.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimageside.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimageside.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimageupload.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\icons\\hidpi\\easyimageupload.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\samples\\easyimage.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\samples\\easyimage.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\easyimage\\styles\\easyimage.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\easyimage\\styles\\easyimage.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\plugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\imagebase\\styles\\imagebase.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\imagebase\\styles\\imagebase.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\ckplugin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\ckplugin.js"
+    },
+    {
       "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
     },
@@ -523,6 +2263,10 @@
     {
       "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\cdn\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\cdn\\users\\1.jpg"
     },
     {
       "Id": "C:\\Users\\user\\Documents\\GitHub\\kereste-dergisi\\Kereste\\Kereste.CORE\\wwwroot\\css\\common\\_darkStyle.css",

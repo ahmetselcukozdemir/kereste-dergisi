@@ -22,9 +22,25 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\user\Documents\GitHub\kereste-dergisi\Kereste\Kereste.CORE
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/AddNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTmV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/EditNews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdE5ld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
@@ -34,8 +50,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/NewsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTmV3c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Admin/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Content/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Home/Index.cshtml]
@@ -44,6 +72,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Home/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZWFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Documents/GitHub/kereste-dergisi/Kereste/Kereste.CORE/Views/Partials/_AdminLeftMenu.cshtml]

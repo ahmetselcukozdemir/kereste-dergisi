@@ -83,6 +83,18 @@ namespace Kereste.BLL.Services.Concrete
             }).FirstOrDefault();
         }
 
+        public CategoryDTO GetCategoryByName(string name)
+        {
+            return _context.Categories.Where(x => x.SelfLink == name).Select(x => new CategoryDTO
+            {
+                categoryDesc = x.Description,
+                categoryID = x.ID,
+                categoryImg = x.Image,
+                categoryName = x.Name,
+                isActive = x.isActive
+            }).FirstOrDefault();
+        }
+
         public int GetCategoryCount()
         {
             return _context.Categories.Where(x => x.isActive == true).Count();
