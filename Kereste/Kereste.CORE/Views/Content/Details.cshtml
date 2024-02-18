@@ -1,0 +1,316 @@
+﻿@model Kereste.CORE.Models.ContentDetailModel
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<iframe src="@Url.Action("UpdateCountNews","Home",new {newsID = Model.News.NewsID})" name="hs" id="hs" width="1" height="1" marginwidth="0" marginheight="0" frameborder="0" hspace="0" vspace="0" scrolling="yes" style="display:none"></iframe>
+
+<!-- ====== start tc-main-post-style1 ====== -->
+<section cl="tc-main-post-style1 pb-60">
+    <div class="container">
+        <div class="tc-main-post-title pt-40 pb-40">
+            <div class="row">
+                <div class="col-lg-8">
+                    <p class="text-uppercase mb-15">@Model.News.Category.Name</p>
+                    <h2 class="title">@Model.News.Title</h2>
+                    <p class="fsz-16px mt-20 color-666">@Model.News.Spot</p>
+                </div>
+            </div>
+        </div>
+        <div class="meta-nav pt-30 pb-30 border-top border-1 brd-gray">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="author-side color-666 fsz-13px">
+                        <div class="author me-40 d-flex d-lg-inline-flex align-items-center">
+                            <span class="icon-30 rounded-circle overflow-hidden me-10">
+                                <img src="https://cdn.kerestedergi.com/users/@Model.News.User.Image" alt="">
+                            </span>
+                            <span>Editör</span>
+                            <a href="#" class="text-decoration-underline text-primary ms-1">@Model.News.User.NameSurname</a>
+                        </div>
+                        <span class="me-40">
+                            <a href="#"><i class="la la-calendar me-1"></i> @Model.News.PublishDate.ToString("dddd, dd MMMM yyyy")</a>
+                        </span>
+                       @*  <span class="">
+                            <a href="#"><i class="la la-comment me-1"></i> 55 Comments</a>
+                        </span> *@
+                    </div>
+                </div>
+               @*  <div class="col-lg-6 text-lg-end">
+                    <div class="links-side color-000 fsz-13px">
+                        <a href="#" class="me-40"><i class="la la-link me-1"></i> Copy Link</a>
+                        <a href="#" class="me-40"><i class="la la-bookmark me-1"></i> Bookmark</a>
+                        <a href="#"><i class="la la-exclamation-triangle me-1"></i> Report</a>
+                    </div>
+                </div> *@
+            </div>
+        </div>
+        <div class="tc-main-post-img img-cover mb-50">
+            <img src="@Model.News.DetailImage" alt="">
+        </div>
+        <div class="tc-main-post-content color-000">
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="sharing">
+                        <p class="text-uppercase mb-20">Share</p>
+                        <div class="share-icons">
+                            <a href="#"> <i class="la la-twitter"></i> </a>
+                            <a href="#"> <i class="la la-facebook-f"></i> </a>
+                            <a href="#"> <i class="la la-instagram"></i> </a>
+                            <a href="#"> <i class="la la-youtube"></i> </a>
+                            <a href="#"> <i class="la la-spotify"></i> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-10">
+                   @Html.Raw(Model.News.Body)
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- ====== end next prev post slider ====== -->
+<!-- ====== start author info ====== -->
+<section class="tc-author-info-style1 pb-60">
+    <div class="container">
+        <div class="tc-author-card border-1 border-top brd-gray">
+            <div class="content mt-50 p-50 d-block d-lg-flex bg-gray1">
+                <div class="img img-cover icon-85 rounded-circle overflow-hidden flex-shrink-0 me-30">
+                    <img src="https://cdn.kerestedergi.com/users/@Model.News.User.Image" alt="">
+                </div>
+                <div class="info">
+                    <h5 class="title fsz-24px fw-bold">@Model.News.User.NameSurname</h5>
+                    <small class="fsz-12px color-main text-uppercase">nba, nfl editor</small>
+                    <div class="text fsz-15px color-666 mt-20">
+                       @Model.News.User.Email
+                    </div>
+                    <div class="social-links mt-20 fsz-19px">
+                        <a href="#" class="me-15"><i class="la la-twitter"></i></a>
+                        <a href="#" class="me-15"><i class="la la-facebook-f"></i></a>
+                        <a href="#" class="me-15"><i class="la la-instagram"></i></a>
+                        <a href="#"><i class="la la-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ====== end author info ====== -->
+<!-- ====== start another posts ====== -->
+<section class="another-news">
+    <div class="container">
+        <div class="content pt-50 pb-50 border-1 border-top border-dark">
+            <div class="row">
+                <div class="col-lg-4 mb-5 mb-lg-0">
+                    <a class="color-000 text-uppercase mb-30 ltspc-1"> edİtörün diğer yazıları <i class="la la-angle-right ms-1"></i> </a>
+                    <div class="row">
+                        <div class="col-12 border-1 border-end brd-gray">
+                            <div class="tc-post-grid-default">
+                                @foreach (var item in Model.EditorNews.Take(1))
+                                {
+                                    <div class="item">
+                                        <div class="img img-cover th-250">
+                                            <img src="@item.HeadImage" alt="">
+                                        </div>
+                                        <div class="content pt-20">
+                                            <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="news-cat color-999 fsz-13px text-uppercase mb-10">@item.Category.Name</a>
+                                            <h4 class="title ltspc--1 mb-10">
+                                                <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})">
+                                                    @item.Title
+                                                </a>
+                                            </h4>
+                                            <div class="text color-666">
+                                                @item.Spot
+                                            </div>
+                                            <div class="meta-bot lh-1 mt-20">
+                                                <ul class="d-flex">
+                                                    <li class="date me-5">
+                                                        <a href="#">
+                                                            <i class="la la-calendar me-2"></i> @item.PublishDate
+                                                        </a>
+                                                    </li>
+                                                   @*  <li class="comment">
+                                                        <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                    </li> *@
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                               
+                            </div>
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    @foreach (var item in Model.EditorNews.Skip(1))
+                                    {
+                                        <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                            <div class="row gx-3 align-items-center">
+                                                <div class="col-4">
+                                                    <div class="img th-70 img-cover">
+                                                        <img src="@item.HeadImage" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-8">
+                                                    <div class="content">
+                                                        <small class="news-cat color-999 fsz-13px text-uppercase mb-10">@item.Category.Name</small>
+                                                        <h5 class="title ltspc--1">
+                                                            @item.Title
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    }
+                                   
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 mb-5 mb-lg-0">
+                    <a  class="color-000 text-uppercase mb-30 ltspc-1"> İLGİNİZİ ÇEKEBİLİR <i class="la la-angle-right ms-1"></i> </a>
+                    <div class="row">
+                        <div class="col-12 border-1 border-end brd-gray">
+                            <div class="tc-post-grid-default">
+                                @foreach (var item in Model.InterestedNews.Take(1))
+                                {
+                                    <div class="item">
+                                        <div class="img img-cover th-250">
+                                            <img src="@item.HeadImage"  alt="">
+                                        </div>
+                                        <div class="content pt-20">
+                                            <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="news-cat color-999 fsz-13px text-uppercase mb-10">@item.Category.Name</a>
+                                            <h4 class="title ltspc--1 mb-10">
+                                                <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})">
+                                                   @item.Title
+                                                </a>
+                                            </h4>
+                                           @*  <div class="text color-666">
+                                               @item.Spot
+                                            </div> *@
+                                            <div class="meta-bot lh-1 mt-20">
+                                                <ul class="d-flex">
+                                                    <li class="date me-5">
+                                                        <a href="#">
+                                                            <i class="la la-calendar me-2"></i> @item.PublishDate
+                                                        </a>
+                                                    </li>
+                                                    @* <li class="comment">
+                                                        <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                    </li> *@
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                               
+                            </div>
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    @foreach (var item in Model.InterestedNews.Skip(1))
+                                    {
+                                        <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                            <div class="row gx-3 align-items-center">
+                                                <div class="col-4">
+                                                    <div class="img th-70 img-cover">
+                                                        <img src="@item.HeadImage" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-8">
+                                                    <div class="content">
+                                                        <small class="news-cat color-999 fsz-13px text-uppercase mb-10">@item.Category.Name</small>
+                                                        <h5 class="title ltspc--1">
+                                                          @item.Title
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    }
+                                   
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <a  class="color-000 text-uppercase mb-30 ltspc-1"> ÇOK OKUNANLAR <i class="la la-angle-right ms-1"></i> </a>
+                    <div class="row">
+                        <div class="col-12">
+                            @foreach (var item in Model.MostNews.Take(1))
+                            {
+                                <div class="tc-post-grid-default">
+                                    <div class="item">
+                                        <div class="img img-cover th-250">
+                                            <img src="@item.HeadImage" alt="">
+                                        </div>
+                                        <div class="content pt-20">
+                                            <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="news-cat color-999 fsz-13px text-uppercase mb-10">@Model.News.Category.Name</a>
+                                            <h4 class="title ltspc--1 mb-10">
+                                                <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})">
+                                                   @item.Title
+                                                </a>
+                                            </h4>
+                                           @*  <div class="text color-666">
+                                                Crime rates on trains and buses are up in some of the nation’s
+                                                biggest [...]
+                                            </div> *@
+                                            <div class="meta-bot lh-1 mt-20">
+                                                <ul class="d-flex">
+                                                    <li class="date me-5">
+                                                        <a href="#">
+                                                            <i class="la la-calendar me-2"></i> @item.PublishDate
+                                                        </a>
+                                                    </li>
+                                                    @* <li class="comment">
+                                                        <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                    </li> *@
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                                
+                            
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    @foreach (var item in Model.MostNews.Skip(1))
+                                    {
+                                        <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                            <div class="row gx-3 align-items-center">
+                                                <div class="col-4">
+                                                    <div class="img th-70 img-cover">
+                                                        <img src="@item.HeadImage" alt="">
+                                                    </div>
+                                                </div>
+                                                <div class="col-8">
+                                                    <div class="content">
+                                                        <small class="news-cat color-999 fsz-13px text-uppercase mb-10">@item.Category.Name</small>
+                                                        <h5 class="title ltspc--1">
+                                                           @item.Title
+                                                        </h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    }
+                                  
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

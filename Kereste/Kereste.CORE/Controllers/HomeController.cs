@@ -1,3 +1,4 @@
+using Kereste.BLL.Services.Abstract;
 using Kereste.CORE.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -6,18 +7,42 @@ namespace Kereste.CORE.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IConfiguration _configuration;
+        private readonly IContentService _contentService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IContentService contentService)
         {
-            _logger = logger;
+            _contentService = contentService;
         }
 
         public IActionResult Index()
         {
+            ViewData["ClassName"] = "home-style1";
+            HomeModel model = new HomeModel();
+
+            model.BreakingNews = _contentService.GetNews(10);
+
+            return View(model);
+        }
+
+        public IActionResult About()
+        {
+            ViewData["ClassName"] = "home-style1 tc-about-page pace-running";
             return View();
         }
 
+        public IActionResult Team()
+        {
+            ViewData["ClassName"] = "home-style1 tc-team-page";
+            return View();
+        }
+
+
+        public IActionResult UpdateCountNews(int newsID)
+        {
+            var check = _contentService.UpdateContentRating(newsID);
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

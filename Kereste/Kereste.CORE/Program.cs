@@ -43,6 +43,31 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.MapControllerRoute(
+   name: "rating-update",
+   pattern: "/rating-update/{newsID}",
+   defaults: new { controller = "Home", action = "UpdateCountNews" });
+
+app.MapControllerRoute(
+    name: "team",
+    pattern: "/dergi-ekibi/",
+    defaults: new { controller = "Home", action = "Team" });
+
+
+app.MapControllerRoute(
+    name: "about",
+    pattern: "/hakkimizda/",
+    defaults: new { controller = "Home", action = "About" });
+
+app.MapControllerRoute(
+   name: "category-index",
+   pattern: "{categorySelfLink}",
+   defaults: new { controller = "Category", action = "Index" });
+
+app.MapControllerRoute(
+   name: "haber-detay",
+   pattern: "{categoryName}/{selfLink}-{id}",
+   defaults: new { controller = "Content", action = "Details" });
 
 app.MapControllerRoute(
     name: "kategorilerim",
@@ -78,6 +103,9 @@ app.MapControllerRoute(
 	name: "login",
 	pattern: "/admin/login/",
 	defaults: new { controller = "Admin", action = "Login" });
+
+
+
 
 app.MapControllerRoute(
     name: "default",

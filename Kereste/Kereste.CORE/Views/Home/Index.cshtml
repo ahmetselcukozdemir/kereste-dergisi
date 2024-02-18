@@ -1,4 +1,594 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model HomeModel
 
+ <!-- ====== start breaking news ====== -->
+<section class="tc-breaking-news-style1 pt-50 pb-50">
+    <div class="container">
+        <p class="color-999 text-uppercase mb-30 ltspc-1">son İçerİkler</p>
+        <div class="tc-post-grid-default">
+            <div class="tc-slider-style1">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        @foreach (var item in Model.BreakingNews)
+                        {
+                            <div class="swiper-slide">
+                                <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="item d-block">
+                                    <div class="row gx-4 align-items-center">
+                                        <div class="col-4">
+                                            <div class="img th-70 img-cover">
+                                                <img src="@item.HeadImage" alt="@item.Title">
+                                            </div>
+                                        </div>
+                                        <div class="col-8">
+                                            <div class="content">
+                                                <h5 class="title">@item.Title</h5>
+                                                <div class="meta-bot mt-10">
+                                                    <ul>
+                                                        <li class="date">
+                                                            <i class="la la-clock"></i> @item.PublishDate.ToString("dd MMMM yyyy HH:mm")
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        }
+                        
+                       
+                    </div>
+                </div>
+                <!-- arrows -->
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ====== end breaking news ====== -->
+
+<section class="tc-trends-news-style3 pt-50 pb-50">
+    <div class="container">
+        <div class="section-content">
+            <div class="row gx-5">
+                <div class="col-lg-9 border-1 border-end brd-gray">
+                    <div class="tc-trends-news-slider3 tc-slider-style2">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                @foreach (var item in Model.BreakingNews)
+                                {
+                                    string[] keyword = item.Tags.Split(',').ToArray();
+                                    <div class="swiper-slide">
+                                        <div class="tc-post-overlay-style2">
+                                            <div class="img th-600 img-cover">
+                                                <img src="@item.HeadImage" alt="">
+                                                @if (keyword.Length > 0)
+                                                {
+                                                    <div class="tags tags-40">
+                                                        @foreach (var key in keyword)
+                                                        {
+                                                            <a >@key</a>
+                                                        }
+                                                    </div>
+                                                }
+                                              
+                                            </div>
+                                            <div class="content ps-40 pe-40 pb-40">
+                                                <h2 class="title mb-20">
+                                                    <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})">@item.Title</a>
+                                                </h2>
+                                                <div class="text mb-40">
+                                                    @item.Spot
+                                                </div>
+                                                <div class="meta-bot lh-1 fsz-13px text-white text-capitalize">
+                                                    <ul class="d-flex">
+                                                        <li class="date me-5">
+                                                            <a href="#">
+                                                                <i class="la la-calendar me-2"></i> @item.PublishDate
+                                                            </a>
+                                                        </li>
+                                                        <li class="author me-5">
+                                                            <a href="#"><i class="la la-user me-2"></i> @item.User.NameSurname</a>
+                                                        </li>
+                                                       @*  <li class="comment">
+                                                            <a href="#">
+                                                                <i class="la la-comment me-2"></i> 55
+                                                                Comments
+                                                            </a>
+                                                        </li> *@
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                               
+                                
+                            </div>
+                        </div>
+                        <!-- arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="tc-post-list-style4">
+                        <p class="color-000 fw-bold text-uppercase mb-30 ltspc-1 lh-1">devamı</p>
+                        @foreach (var item in Model.BreakingNews.Take(1))
+                        {
+                            <div class="tc-post-overlay-style2">
+                                <div class="img th-180 img-cover">
+                                    <img src="@item.HeadImage" alt="">
+                                </div>
+                                <div class="content ps-20 pe-20 pb-20 text-white">
+                                    <h6 class="title">
+                                        <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})">@item.Title</a>
+                                    </h6>
+                                    <a href="#" class="text-uppercase fsz-12px mt-10">@item.Category.Name</a>
+                                </div>
+                            </div>
+                        }
+                        
+                        <div class="items">
+                            @{
+                                int count = 7;
+                                foreach (var item in Model.BreakingNews.Skip(1).Take(4))
+                                {
+                                    <a href="@Url.Action("Details","Content",new{categoryName = item.Category.SelfLink,selfLink = item.SelfLink,id= item.NewsID})" class="item">
+                                        <h2 class="num">
+                                            @count
+                                        </h2>
+                                        <div class="content border-start border-1 brd-gray ms-15 ps-15">
+                                            <h6 class="title">@item.Title</h6>
+                                            <span class="fsz-10px color-666 text-uppercase mt-2">@item.Category.Name</span>
+                                        </div>
+                                    </a>
+                                    count++;
+                                }
+                            }
+                            
+                         
+                           
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="tc-post-grid-style2">
+    <div class="container">
+        <div class="content">
+            <p class="color-000 text-uppercase mb-30 ltspc-1 fw-bold">EDİTÖRÜN SEÇTİKLERİ</p>
+            <div class="tc-editors-pick-slider">
+                <div class="swiper-container swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-wrapper" style="transform: translate3d(-383.333px, 0px, 0px); transition-duration: 0ms;">
+                        <div class="swiper-slide swiper-slide-prev" style="width: 323.333px; margin-right: 60px;">
+                            <div class="item">
+                                <a href="./img/edit_choice/5.png" class="img th-230 img-cover d-block" data-fancybox="editors_pick">
+                                    <img src="./img/edit_choice/5.png" alt="">
+                                </a>
+                                <div class="info">
+                                    <h3 class="title mt-30">
+                                        <a href="page-single-post-creative.html">Start a new day with a simple breakfast</a>
+                                    </h3>
+                                    <span class="color-666 fsz-12px text-uppercase mt-15">receipes, breakfast</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-active" style="width: 323.333px; margin-right: 60px;">
+                            <div class="item">
+                                <a href="./img/edit_choice/6.png" class="img th-230 img-cover d-block" data-fancybox="editors_pick">
+                                    <img src="./img/edit_choice/6.png" alt="">
+                                </a>
+                                <div class="info">
+                                    <h3 class="title mt-30">
+                                        <a href="page-single-post-creative.html">Stories give inspiration amd feel about art of food by Japan’s chefs</a>
+                                    </h3>
+                                    <span class="color-666 fsz-12px text-uppercase mt-15">cuisine, news</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-next" style="width: 323.333px; margin-right: 60px;">
+                            <div class="item">
+                                <a href="https://youtu.be/pGbIOC83-So?t=21" class="img th-230 img-cover d-block" data-lity="editors_pick">
+                                    <img src="./img/edit_choice/7.png" alt="">
+                                    <span class="video_icon icon-70">
+                                        <i class="ion-play"></i>
+                                    </span>
+                                </a>
+                                <div class="info">
+                                    <h3 class="title mt-30">
+                                        <a href="page-single-post-features.html">Poseidon Sea Foods</a>
+                                    </h3>
+                                    <span class="color-666 fsz-12px text-uppercase mt-15">receipes, videos</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" style="width: 323.333px; margin-right: 60px;">
+                            <div class="item">
+                                <a href="./img/edit_choice/6.png" class="img th-230 img-cover d-block" data-fancybox="editors_pick">
+                                    <img src="./img/edit_choice/6.png" alt="">
+                                </a>
+                                <div class="info">
+                                    <h3 class="title mt-30">
+                                        <a href="page-single-post-creative.html">Start a new day with a simple breakfast</a>
+                                    </h3>
+                                    <span class="color-666 fsz-12px text-uppercase mt-15">receipes, breakfast</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                </div>
+                <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<section class="another-news pt-50 pb-50 border-1 border-top brd-gray">
+    <div class="container">
+        <div class="content">
+            <div class="row">
+                <div class="col-lg-4">
+                    <p class="color-000 text-uppercase mb-30 ltspc-1">
+                        <a href="page-blog.html">Öykü</a> <i class="la la-angle-right ms-1"></i>
+                    </p>
+                    <div class="row">
+                        <div class="col-12 border-1 border-end brd-gray">
+                            <div class="tc-post-grid-default">
+                                <div class="item">
+                                    <div class="img img-cover th-250">
+                                        <img src="./img/another_news/1.png" alt="">
+                                    </div>
+                                    <div class="content pt-20">
+                                        <a href="#"
+                                           class="news-cat color-999 fsz-13px text-uppercase mb-10">sport</a>
+                                        <h4 class="title ltspc--1 mb-10">
+                                            <a href="page-single-post-creative.html">
+                                                America's track and field team won the 2022 olympics?
+                                            </a>
+                                        </h4>
+                                        <div class="text color-666">
+                                            Crime rates on trains and buses are up in some of the nation’s
+                                            biggest [...]
+                                        </div>
+                                        <div class="meta-bot lh-1 mt-20">
+                                            <ul class="d-flex">
+                                                <li class="date me-5">
+                                                    <a href="#">
+                                                        <i class="la la-calendar me-2"></i> Dec 14,
+                                                        2022
+                                                    </a>
+                                                </li>
+                                                <li class="comment">
+                                                    <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/2.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">sport</small>
+                                                    <h5 class="title ltspc--1">
+                                                        How’s Ameican Football Ball created out?
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/3.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">sport</small>
+                                                    <h5 class="title ltspc--1">
+                                                        Daniel share experience ski on Everest
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <p class="color-000 text-uppercase mb-30 ltspc-1">
+                        <a href="page-blog.html">Şiir</a> <i class="la la-angle-right ms-1"></i>
+                    </p>
+                    <div class="row">
+                        <div class="col-12 border-1 border-end brd-gray">
+                            <div class="tc-post-grid-default">
+                                <div class="item">
+                                    <div class="img img-cover th-250">
+                                        <img src="./img/another_news/4.png" alt="">
+                                    </div>
+                                    <div class="content pt-20">
+                                        <a href="#"
+                                           class="news-cat color-999 fsz-13px text-uppercase mb-10">Entertaiment</a>
+                                        <h4 class="title ltspc--1 mb-10">
+                                            <a href="page-single-post-creative.html">
+                                                Logan Cee's Best Contemporary Art Works
+                                            </a>
+                                        </h4>
+                                        <div class="text color-666">
+                                            Crime rates on trains and buses are up in some of the nation’s
+                                            biggest [...]
+                                        </div>
+                                        <div class="meta-bot lh-1 mt-20">
+                                            <ul class="d-flex">
+                                                <li class="date me-5">
+                                                    <a href="#">
+                                                        <i class="la la-calendar me-2"></i> Dec 14,
+                                                        2022
+                                                    </a>
+                                                </li>
+                                                <li class="comment">
+                                                    <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/5.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">entertaiment</small>
+                                                    <h5 class="title ltspc--1">
+                                                        Netflix change their policy for package family
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/6.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">entertaiment</small>
+                                                    <h5 class="title ltspc--1">
+                                                        Buy black vinyl record at Festival Oldschool market
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <p class="color-000 text-uppercase mb-30 ltspc-1">
+                        <a href="page-blog.html">Deneme</a> <i class="la la-angle-right ms-1"></i>
+                    </p>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="tc-post-grid-default">
+                                <div class="item">
+                                    <div class="img img-cover th-250">
+                                        <img src="./img/another_news/7.png" alt="">
+                                    </div>
+                                    <div class="content pt-20">
+                                        <a href="#"
+                                           class="news-cat color-999 fsz-13px text-uppercase mb-10">Travel</a>
+                                        <h4 class="title ltspc--1 mb-10">
+                                            <a href="page-single-post-creative.html">
+                                                Top 10 Most beautiful hot springs in the world
+                                            </a>
+                                        </h4>
+                                        <div class="text color-666">
+                                            Crime rates on trains and buses are up in some of the nation’s
+                                            biggest [...]
+                                        </div>
+                                        <div class="meta-bot lh-1 mt-20">
+                                            <ul class="d-flex">
+                                                <li class="date me-5">
+                                                    <a href="#">
+                                                        <i class="la la-calendar me-2"></i> Dec 14,
+                                                        2022
+                                                    </a>
+                                                </li>
+                                                <li class="comment">
+                                                    <a href="#"><i class="la la-comment me-2"></i> 7</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tc-post-list-style2">
+                                <div class="items">
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 mt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/8.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">Travel</small>
+                                                    <h5 class="title ltspc--1">
+                                                        Experience in applying for a visa card for newcomers
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="page-single-post-creative.html"
+                                       class="item d-block border-1 border-top border-bottom-0 brd-gray pt-15 brd-gray">
+                                        <div class="row gx-3 align-items-center">
+                                            <div class="col-4">
+                                                <div class="img th-70 img-cover">
+                                                    <img src="./img/another_news/9.png" alt="">
+                                                </div>
+                                            </div>
+                                            <div class="col-8">
+                                                <div class="content">
+                                                    <small class="news-cat color-999 fsz-13px text-uppercase mb-10">Travel</small>
+                                                    <h5 class="title ltspc--1">
+                                                        Release yourself on the sea and get the vibe chill
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="tc-columnist-style1">
+    <div class="container">
+        <div class="content pt-50 pb-50 border-1 border-top brd-gray">
+            <p class="color-000 text-uppercase mb-40 ltspc-1 lh-1">
+                editör ekibimiz <i class="la la-angle-right ms-1"></i>
+            </p>
+            <div class="columnist-slider1 tc-slider-style1">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="columnist-card d-flex align-items-center">
+                                <div class="img img-cover icon-100 rounded-circle overflow-hidden flex-lg-shrink-0 me-4">
+                                    <img src="./img/colums/1.png" alt="">
+                                </div>
+                                <div class="info">
+                                    <h6 class="name fsz-20px mb-10">
+                                        Conor Bradley
+                                    </h6>
+                                    <div class="jop-title">
+                                        <small class="fsz-13px color-999">Specialize in</small>
+                                        <p class="fsz-13px text-uppercase">Business, technology</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="columnist-card d-flex align-items-center">
+                                <div class="img img-cover icon-100 rounded-circle overflow-hidden flex-lg-shrink-0 me-4">
+                                    <img src="./img/colums/2.png" alt="">
+                                </div>
+                                <div class="info">
+                                    <h6 class="name fsz-20px mb-10">
+                                        Luis Diaz
+                                    </h6>
+                                    <div class="jop-title">
+                                        <small class="fsz-13px color-999">Specialize in</small>
+                                        <p class="fsz-13px text-uppercase">Politic, lifestyle</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="columnist-card d-flex align-items-center">
+                                <div class="img img-cover icon-100 rounded-circle overflow-hidden flex-lg-shrink-0 me-4">
+                                    <img src="./img/colums/3.png" alt="">
+                                </div>
+                                <div class="info">
+                                    <h6 class="name fsz-20px mb-10">
+                                        Alberto Moreno
+                                    </h6>
+                                    <div class="jop-title">
+                                        <small class="fsz-13px color-999">Specialize in</small>
+                                        <p class="fsz-13px text-uppercase">Entertaiment, culture, wolrd </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="columnist-card d-flex align-items-center">
+                                <div class="img img-cover icon-100 rounded-circle overflow-hidden flex-lg-shrink-0 me-4">
+                                    <img src="./img/colums/2.png" alt="">
+                                </div>
+                                <div class="info">
+                                    <h6 class="name fsz-20px mb-10">
+                                        Luis Diaz
+                                    </h6>
+                                    <div class="jop-title">
+                                        <small class="fsz-13px color-999">Specialize in</small>
+                                        <p class="fsz-13px text-uppercase">Politic, lifestyle</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- arrows -->
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="tc-subscribe-style4">
+    <div class="container">
+        <div class="content text-center pt-60 pb-60 border-1 border-bottom brd-gray">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <p class="color-000 text-uppercase mb-30 ltspc-1 fw-bold">bültenimize abone olun</p>
+                    <div class="text fsz-14px color-666 mb-30">
+                        yeni içeriklerimizle ilgili ilk haberiniz olsun istiyorsanız bültenimize abone olun.
+                    </div>
+                    <form class="form">
+                        <div class="form-group">
+                            <i class="la la-envelope icon"></i>
+                            <input type="text" class="form-control" placeholder="Email adresi">
+                            <button type="submit">abone ol</button>
+                        </div>
+                    </form>
+                    <p class="fsz-12px color-666 text-capitalize mt-20">Abone olarak kabul etmiş sayılırsınız <a href="#" class="color-000 text-decoration-underline">Politika</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
