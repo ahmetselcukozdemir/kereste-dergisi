@@ -201,6 +201,7 @@ namespace Kereste.CORE.Controllers
             return View(model);
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult UpdateCategory(CategoryDTO model)
         {
